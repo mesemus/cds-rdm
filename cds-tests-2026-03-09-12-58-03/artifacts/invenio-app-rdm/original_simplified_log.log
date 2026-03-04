@@ -1,0 +1,86 @@
+ rabbitmq Pulling 
+ redis Pulling 
+ opensearch Pulling 
+ postgresql Pulling 
+ redis Pulled 
+ postgresql Pulled 
+ rabbitmq Pulled 
+ opensearch Pulled 
+ Network docker_services_cli_default  Creating
+ Network docker_services_cli_default  Created
+ Container docker_services_cli-rabbitmq-1  Creating
+ Container docker_services_cli-opensearch-1  Creating
+ Container docker_services_cli-postgresql-1  Creating
+ Container docker_services_cli-redis-1  Creating
+ Container docker_services_cli-opensearch-1  Created
+ Container docker_services_cli-redis-1  Created
+ Container docker_services_cli-postgresql-1  Created
+ Container docker_services_cli-rabbitmq-1  Created
+ Container docker_services_cli-rabbitmq-1  Starting
+ Container docker_services_cli-redis-1  Starting
+ Container docker_services_cli-postgresql-1  Starting
+ Container docker_services_cli-opensearch-1  Starting
+ Container docker_services_cli-postgresql-1  Started
+ Container docker_services_cli-redis-1  Started
+ Container docker_services_cli-opensearch-1  Started
+ Container docker_services_cli-rabbitmq-1  Started
+ImportError while loading conftest '/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-app-rdm/original/tests/conftest.py'
+tests/conftest.py:44: in <module>
+    from invenio_vocabularies.contrib.subjects.api import Subject
+venv/lib/python3.9/site-packages/invenio_vocabularies/__init__.py:12: in <module>
+    from .ext import InvenioVocabularies
+venv/lib/python3.9/site-packages/invenio_vocabularies/ext.py:12: in <module>
+    from . import config
+venv/lib/python3.9/site-packages/invenio_vocabularies/config.py:18: in <module>
+    from .datastreams.readers import (
+venv/lib/python3.9/site-packages/invenio_vocabularies/datastreams/__init__.py:11: in <module>
+    from .datastreams import DataStream, StreamEntry
+venv/lib/python3.9/site-packages/invenio_vocabularies/datastreams/datastreams.py:15: in <module>
+    from invenio_jobs.logging.jobs import EMPTY_JOB_CTX, job_context
+venv/lib/python3.9/site-packages/invenio_jobs/__init__.py:12: in <module>
+    from .ext import InvenioJobs
+venv/lib/python3.9/site-packages/invenio_jobs/ext.py:15: in <module>
+    from . import config
+venv/lib/python3.9/site-packages/invenio_jobs/config.py:13: in <module>
+    from .services.permissions import (
+venv/lib/python3.9/site-packages/invenio_jobs/services/__init__.py:11: in <module>
+    from .config import (
+venv/lib/python3.9/site-packages/invenio_jobs/services/config.py:14: in <module>
+    from invenio_records_resources.records.systemfields import IndexField
+venv/lib/python3.9/site-packages/invenio_records_resources/records/systemfields/__init__.py:12: in <module>
+    from .files import FilesField
+venv/lib/python3.9/site-packages/invenio_records_resources/records/systemfields/files/__init__.py:12: in <module>
+    from .field import FilesField
+venv/lib/python3.9/site-packages/invenio_records_resources/records/systemfields/files/field.py:51: in <module>
+    from ....services.records.components.files import FilesAttrConfig
+venv/lib/python3.9/site-packages/invenio_records_resources/services/__init__.py:21: in <module>
+    from .files import FileLink, FileService, FileServiceConfig
+venv/lib/python3.9/site-packages/invenio_records_resources/services/files/__init__.py:12: in <module>
+    from .components import FileServiceComponent
+venv/lib/python3.9/site-packages/invenio_records_resources/services/files/components/__init__.py:15: in <module>
+    from .multipart import FileMultipartContentComponent
+venv/lib/python3.9/site-packages/invenio_records_resources/services/files/components/multipart.py:14: in <module>
+    from invenio_records_resources.services.files.transfer.providers.multipart import (
+venv/lib/python3.9/site-packages/invenio_records_resources/services/files/transfer/__init__.py:12: in <module>
+    from .base import Transfer, TransferStatus
+venv/lib/python3.9/site-packages/invenio_records_resources/services/files/transfer/base.py:14: in <module>
+    from fs.errors import CreateFailed
+E   ModuleNotFoundError: No module named 'fs'
+ Container docker_services_cli-opensearch-1  Stopping
+ Container docker_services_cli-rabbitmq-1  Stopping
+ Container docker_services_cli-redis-1  Stopping
+ Container docker_services_cli-postgresql-1  Stopping
+ Container docker_services_cli-postgresql-1  Stopped
+ Container docker_services_cli-postgresql-1  Removing
+ Container docker_services_cli-redis-1  Stopped
+ Container docker_services_cli-redis-1  Removing
+ Container docker_services_cli-postgresql-1  Removed
+ Container docker_services_cli-redis-1  Removed
+ Container docker_services_cli-opensearch-1  Stopped
+ Container docker_services_cli-opensearch-1  Removing
+ Container docker_services_cli-opensearch-1  Removed
+ Container docker_services_cli-rabbitmq-1  Stopped
+ Container docker_services_cli-rabbitmq-1  Removing
+ Container docker_services_cli-rabbitmq-1  Removed
+ Network docker_services_cli_default  Removing
+ Network docker_services_cli_default  Removed

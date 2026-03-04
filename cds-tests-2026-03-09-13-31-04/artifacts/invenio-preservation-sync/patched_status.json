@@ -1,0 +1,43 @@
+{
+  "dependencies": [],
+  "package": {
+    "extras": [
+      "tests",
+      "opensearch2",
+      "postgresql"
+    ],
+    "freeze": [
+      "setuptools<82.0.0"
+    ],
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": "0.2.0",
+      "base": null,
+      "branch": "v0.2.0",
+      "commit": "ca7e93bc74714cc31176ddfa2ebea8d038386762",
+      "commits_from_version": [],
+      "org": "inveniosoftware",
+      "package": "invenio-preservation-sync",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-preservation-sync"
+    },
+    "test": [
+      "./run-tests.sh"
+    ],
+    "unpatched_reference": {
+      "actual_version": "0.2.0",
+      "base": null,
+      "branch": null,
+      "commit": "ca7e93bc74714cc31176ddfa2ebea8d038386762",
+      "commits_from_version": [],
+      "org": "inveniosoftware",
+      "package": "invenio-preservation-sync",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-preservation-sync"
+    }
+  },
+  "status": "skipped"
+}

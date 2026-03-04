@@ -1,0 +1,49 @@
+{
+  "dependencies": [],
+  "package": {
+    "extras": [],
+    "freeze": [],
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": "1.25.5",
+      "base": null,
+      "branch": "feature/vcs",
+      "commit": "f16837006b709eb612b76a6b139daa19f0e4151f",
+      "commits_from_version": [
+        "9be6197b60f85c14194c19e5d69c47abc30d28e4",
+        "fea5a23b7136a1d3796fa0796a6492a25f953b60",
+        "2497fa472f21699761ec33dafaa6aaffb66c2864",
+        "5e7f831bfe508ada321a4cf7c1e7bdca94cedd50",
+        "7c9ce47af9d4e73f5e9d2a8310a7526a7ee33128",
+        "df43e8ac99600871fe565c3f07e25000185b76f8",
+        "c90f4cef6ba07c250e428625b366be3db4a2386a",
+        "621637c5da85caf4cf7e931dce78385c2a922134",
+        "257981bac1a5f742fd020034cb63859b172232e6",
+        "d6a8aea76920a3f8dcd82f169e2d820fac8bf915",
+        "0a413378308c098c8e7f93885e3de4b90a1014f6",
+        "859581ff326c36f0997f2382d053b9287aa6f0ec",
+        "9a8e750c559c282d321ef50e5e517d29374838dd",
+        "399e8652215067b7cee59965b04e2c7c83f11754",
+        "0d520ed1143c1b5b9d1ee8536f9ec607ebdb2532",
+        "8691e94808bc9714d43fed9362eb0d266ffd0281",
+        "15392f8d5c7f0588888124a315596e3864968015",
+        "86988af936df463dfd593bf743c7210b2f22f00b",
+        "e711133131227717d6bd37e505666df860877820",
+        "dd7f4c67c2000b5350cf953792e1e9fe639438d9",
+        "fd080b8a4cbeec38b9127ba9251865061498b6b8",
+        "f16837006b709eb612b76a6b139daa19f0e4151f"
+      ],
+      "org": "mesemus",
+      "package": "cds-rdm",
+      "pr": null,
+      "pr_info": null,
+      "repo": "cds-rdm"
+    },
+    "test": [
+      "site/run-tests.sh"
+    ],
+    "unpatched_reference": null
+  },
+  "status": "failed"
+}

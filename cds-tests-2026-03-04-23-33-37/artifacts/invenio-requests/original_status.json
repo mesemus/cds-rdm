@@ -1,0 +1,50 @@
+{
+  "dependencies": [],
+  "package": {
+    "extras": [
+      "tests",
+      "opensearch2",
+      "s3",
+      "devs",
+      "s3fs",
+      "oaipmh",
+      "rdf",
+      "sparql",
+      "postgresql",
+      "admin"
+    ],
+    "freeze": [
+      "setuptools<82.0.0"
+    ],
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": "11.2.3",
+      "base": null,
+      "branch": "v11.2.3",
+      "commit": "d2bf9d7dbbed4d8b45a991ba50e0d9ca08746ff9",
+      "commits_from_version": [],
+      "org": "inveniosoftware",
+      "package": "invenio-requests",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-requests"
+    },
+    "test": [
+      "./run-tests.sh"
+    ],
+    "unpatched_reference": {
+      "actual_version": "11.2.3",
+      "base": null,
+      "branch": null,
+      "commit": "d2bf9d7dbbed4d8b45a991ba50e0d9ca08746ff9",
+      "commits_from_version": [],
+      "org": "inveniosoftware",
+      "package": "invenio-requests",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-requests"
+    }
+  },
+  "status": "success"
+}

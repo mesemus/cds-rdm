@@ -1,0 +1,78 @@
+{
+  "dependencies": [],
+  "package": {
+    "extras": [
+      "tests",
+      "opensearch2",
+      "s3",
+      "devs",
+      "s3fs",
+      "oaipmh",
+      "rdf",
+      "sparql",
+      "postgresql",
+      "admin"
+    ],
+    "freeze": [
+      "setuptools<82.0.0"
+    ],
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": "23.2.2",
+      "base": null,
+      "branch": "vcs",
+      "commit": "b3aadf70b9c6178997723e4e782d3c158fe21c11",
+      "commits_from_version": [
+        "970f5fec1b74f9574c1878907d53abee5c4c6555",
+        "adc9c274a02d5bcf404ba2c550e0f93edf1debba",
+        "dbf290c63e2bb71a5f38d032c64202419960b157",
+        "3a5c29d866d60995601318e8b15170b6cf71b3f6",
+        "e2a2464b3cfe118c558bd3d3159e266f5244bd9b",
+        "bb9d73c3699b675c3888ec9d54d08fc160064a02",
+        "eb6f79b44e0a3cc0840bd7b616d482d910129481",
+        "c586f48e8e10dcbd1cf56b173c581c3ddf2a6fe9",
+        "cc779af8657c3a6235e7e3c44e7302577526acd9",
+        "0b1bffb2dace4366066e5d93a801e579750df575",
+        "fb6d3e990bbb02a5e7bf4970ec4fa275bdf0e667",
+        "0b3e975f1c33fea74146f1ab173311ffdce3572c",
+        "b3aadf70b9c6178997723e4e782d3c158fe21c11"
+      ],
+      "org": "palkerecsenyi",
+      "package": "invenio-rdm-records",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-rdm-records"
+    },
+    "test": [
+      "./run-tests.sh"
+    ],
+    "unpatched_reference": {
+      "actual_version": "23.2.2",
+      "base": null,
+      "branch": null,
+      "commit": "b3aadf70b9c6178997723e4e782d3c158fe21c11",
+      "commits_from_version": [
+        "970f5fec1b74f9574c1878907d53abee5c4c6555",
+        "adc9c274a02d5bcf404ba2c550e0f93edf1debba",
+        "dbf290c63e2bb71a5f38d032c64202419960b157",
+        "3a5c29d866d60995601318e8b15170b6cf71b3f6",
+        "e2a2464b3cfe118c558bd3d3159e266f5244bd9b",
+        "bb9d73c3699b675c3888ec9d54d08fc160064a02",
+        "eb6f79b44e0a3cc0840bd7b616d482d910129481",
+        "c586f48e8e10dcbd1cf56b173c581c3ddf2a6fe9",
+        "cc779af8657c3a6235e7e3c44e7302577526acd9",
+        "0b1bffb2dace4366066e5d93a801e579750df575",
+        "fb6d3e990bbb02a5e7bf4970ec4fa275bdf0e667",
+        "0b3e975f1c33fea74146f1ab173311ffdce3572c",
+        "b3aadf70b9c6178997723e4e782d3c158fe21c11"
+      ],
+      "org": "palkerecsenyi",
+      "package": "invenio-rdm-records",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-rdm-records"
+    }
+  },
+  "status": "skipped"
+}

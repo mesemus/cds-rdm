@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "9f8207e",
+    "message": "\ud83d\udce6 release: v6.1.0"
+  },
+  {
+    "hash": "041006c",
+    "message": "fix: Handle large log results in job details admin panel"
+  },
+  {
+    "hash": "9446d12",
+    "message": "release: v6.0.0"
+  },
+  {
+    "hash": "f0d3c77",
+    "message": "Feature/subtasks tracking (#104)"
+  },
+  {
+    "hash": "a252524",
+    "message": "fix: Add missing successCallback prop"
+  },
+  {
+    "hash": "ec07763",
+    "message": "fix(job-context): set context inside execute_run"
+  },
+  {
+    "hash": "d71b144",
+    "message": "fix(scheduler): add missing job context"
+  },
+  {
+    "hash": "21c6133",
+    "message": "release: v5.0.0"
+  },
+  {
+    "hash": "2d7d319",
+    "message": "setup: bump invenio-users-resources"
+  },
+  {
+    "hash": "bc19edf",
+    "message": "release: v4.3.2"
+  },
+  {
+    "hash": "682cc3b",
+    "message": "fix: datetime not being correctly serialised in scheduled jobs"
+  },
+  {
+    "hash": "4940453",
+    "message": "release: v4.3.1"
+  },
+  {
+    "hash": "b670f38",
+    "message": "fix: serialisation of `since` datetime (#88)"
+  },
+  {
+    "hash": "dce2f10",
+    "message": "release: v4.3.0"
+  },
+  {
+    "hash": "8d3ab36",
+    "message": "tasks: adds sentry id to job message"
+  },
+  {
+    "hash": "e689dc2",
+    "message": "i18n: pulled translations"
+  },
+  {
+    "hash": "cc221a0",
+    "message": "errors: deprecate TaskExecutionError"
+  },
+  {
+    "hash": "04272cb",
+    "message": "i18n: run js extract msgs"
+  },
+  {
+    "hash": "cb270ea",
+    "message": "i18n: add translations for logs display messages"
+  },
+  {
+    "hash": "1970049",
+    "message": "fix: improve key generation for message lines"
+  },
+  {
+    "hash": "1b277a6",
+    "message": "style: remove unused import"
+  },
+  {
+    "hash": "1ede148",
+    "message": "refactor: fix potential memory leak in RunsLogs"
+  },
+  {
+    "hash": "200f4a6",
+    "message": "fix: fix linting errors"
+  },
+  {
+    "hash": "b18bb45",
+    "message": "fix: run auto linter"
+  },
+  {
+    "hash": "046c8f1",
+    "message": "refactor: clean up JobRunsHeader component"
+  },
+  {
+    "hash": "95cf3c9",
+    "message": "ci: add JS testing workflow and update gitignore"
+  },
+  {
+    "hash": "41e6e4c",
+    "message": "release: v4.2.0"
+  },
+  {
+    "hash": "ccf7ee3",
+    "message": "chores: replaced importlib_xyz with importlib"
+  },
+  {
+    "hash": "5e95a35",
+    "message": "i18n:push translations"
+  },
+  {
+    "hash": "57d73e4",
+    "message": "i18n: update frontend package path in workflow"
+  },
+  {
+    "hash": "22da583",
+    "message": "i18n: include additional .po files in MANIFEST.in"
+  },
+  {
+    "hash": "3fce803",
+    "message": "i18n: update action texts to use lazy_gettext"
+  },
+  {
+    "hash": "1eb7e14",
+    "message": "i18n: test sv language"
+  },
+  {
+    "hash": "a6d5cbf",
+    "message": "i18n: run js compile catalog"
+  },
+  {
+    "hash": "3334f49",
+    "message": "i18n: run js extract msgs"
+  },
+  {
+    "hash": "1749e44",
+    "message": "i18n: Remove unused translation files"
+  },
+  {
+    "hash": "87131c9",
+    "message": "i18n: refactor compile catalog"
+  },
+  {
+    "hash": "a59e187",
+    "message": "i18n: run py extract msgs"
+  },
+  {
+    "hash": "26486c2",
+    "message": "fix: update transifex config"
+  },
+  {
+    "hash": "16a2c96",
+    "message": "workflow: add i18n pull and push translation jobs"
+  },
+  {
+    "hash": "54dbc9c",
+    "message": "templates: job-details: Use invenio_url_for"
+  },
+  {
+    "hash": "e8965e6",
+    "message": "templates: job-details: Fix back button not navigating to job search"
+  },
+  {
+    "hash": "4e90fbc",
+    "message": "release: v4.1.0"
+  },
+  {
+    "hash": "506ce56",
+    "message": "admin: remove flag to always show the admin panel"
+  },
+  {
+    "hash": "ce6da20",
+    "message": "services: simplify search filtering logic"
+  },
+  {
+    "hash": "c88945c",
+    "message": "fix: LegacyAPIWarning"
+  },
+  {
+    "hash": "f332878",
+    "message": "fix: SADeprecationWarning"
+  },
+  {
+    "hash": "6b82fa0",
+    "message": "release: v4.0.0"
+  },
+  {
+    "hash": "bd0fdf4",
+    "message": "setup: bump major dependencies"
+  },
+  {
+    "hash": "de9eee3",
+    "message": "fix: ChangedInMarshmallow4Warning"
+  }
+]

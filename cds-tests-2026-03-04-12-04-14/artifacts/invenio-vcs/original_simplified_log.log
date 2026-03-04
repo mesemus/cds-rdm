@@ -1,0 +1,44 @@
+ redis Pulling 
+ postgresql Pulling 
+ opensearch Pulling 
+ redis Pulled 
+ opensearch Pulled 
+ postgresql Pulled 
+ Network docker_services_cli_default  Creating
+ Network docker_services_cli_default  Created
+ Container docker_services_cli-opensearch-1  Creating
+ Container docker_services_cli-redis-1  Creating
+ Container docker_services_cli-postgresql-1  Creating
+ Container docker_services_cli-opensearch-1  Created
+ Container docker_services_cli-redis-1  Created
+ Container docker_services_cli-postgresql-1  Created
+ Container docker_services_cli-redis-1  Starting
+ Container docker_services_cli-postgresql-1  Starting
+ Container docker_services_cli-opensearch-1  Starting
+ Container docker_services_cli-redis-1  Started
+ Container docker_services_cli-postgresql-1  Started
+ Container docker_services_cli-opensearch-1  Started
+ImportError while loading conftest '/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-vcs/original/tests/conftest.py'
+tests/conftest.py:19: in <module>
+    from invenio_vcs.contrib.github import GitHubProviderFactory
+invenio_vcs/__init__.py:10: in <module>
+    from .ext import InvenioVCS
+invenio_vcs/ext.py:20: in <module>
+    from invenio_vcs.service import VCSRelease
+invenio_vcs/service.py:26: in <module>
+    from invenio_vcs.errors import (
+E   ImportError: cannot import name 'UserInfoNoneError' from 'invenio_vcs.errors' (/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-vcs/original/invenio_vcs/errors.py)
+ Container docker_services_cli-opensearch-1  Stopping
+ Container docker_services_cli-postgresql-1  Stopping
+ Container docker_services_cli-redis-1  Stopping
+ Container docker_services_cli-postgresql-1  Stopped
+ Container docker_services_cli-postgresql-1  Removing
+ Container docker_services_cli-redis-1  Stopped
+ Container docker_services_cli-redis-1  Removing
+ Container docker_services_cli-postgresql-1  Removed
+ Container docker_services_cli-redis-1  Removed
+ Container docker_services_cli-opensearch-1  Stopped
+ Container docker_services_cli-opensearch-1  Removing
+ Container docker_services_cli-opensearch-1  Removed
+ Network docker_services_cli_default  Removing
+ Network docker_services_cli_default  Removed

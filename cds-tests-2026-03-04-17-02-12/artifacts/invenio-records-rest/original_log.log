@@ -1,0 +1,1367 @@
+ rabbitmq Pulling 
+ postgresql Pulling 
+ redis Pulling 
+ opensearch Pulling 
+ 84a2afebaf4d Pulling fs layer 
+ 68bef8a2321a Pulling fs layer 
+ dc35057c3d27 Pulling fs layer 
+ 762d5b1c0ef7 Pulling fs layer 
+ 1196a886e941 Pulling fs layer 
+ 96afa962f1ac Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 6475cc3afbe1 Pulling fs layer 
+ 762d5b1c0ef7 Waiting 
+ 1196a886e941 Waiting 
+ 96afa962f1ac Waiting 
+ 4f4fb700ef54 Waiting 
+ 6475cc3afbe1 Waiting 
+ 20043066d3d5 Pulling fs layer 
+ 3fadc669ef11 Pulling fs layer 
+ 7084ac8f4ab6 Pulling fs layer 
+ 20043066d3d5 Waiting 
+ 3fadc669ef11 Waiting 
+ beb0d870d438 Pulling fs layer 
+ d63c4408fdb7 Pulling fs layer 
+ efa05c660812 Pulling fs layer 
+ f4e7f62f4b80 Pulling fs layer 
+ 5e1c03b67a78 Pulling fs layer 
+ 14e6209d5fa8 Pulling fs layer 
+ d686b50ce172 Pulling fs layer 
+ 7084ac8f4ab6 Waiting 
+ beb0d870d438 Waiting 
+ d63c4408fdb7 Waiting 
+ efa05c660812 Waiting 
+ f4e7f62f4b80 Waiting 
+ 5e1c03b67a78 Waiting 
+ 14e6209d5fa8 Waiting 
+ d686b50ce172 Waiting 
+ b0a0cf830b12 Pulling fs layer 
+ dda3d8fbd5ed Pulling fs layer 
+ 283a477db7bb Pulling fs layer 
+ 91d2729fa4d5 Pulling fs layer 
+ 9739ced65621 Pulling fs layer 
+ ae3bb1b347a4 Pulling fs layer 
+ f8406d9c00ea Pulling fs layer 
+ c199bff16b05 Pulling fs layer 
+ e0d55fdb4d15 Pulling fs layer 
+ b0a0cf830b12 Waiting 
+ dda3d8fbd5ed Waiting 
+ c1cb13b19080 Pulling fs layer 
+ 873532e5f8c7 Pulling fs layer 
+ 050d9f8c3b1c Pulling fs layer 
+ 283a477db7bb Waiting 
+ 710e142705f8 Pulling fs layer 
+ 91d2729fa4d5 Waiting 
+ cb628c265f09 Pulling fs layer 
+ 9739ced65621 Waiting 
+ ae3bb1b347a4 Waiting 
+ 873532e5f8c7 Waiting 
+ f8406d9c00ea Waiting 
+ 050d9f8c3b1c Waiting 
+ c199bff16b05 Waiting 
+ 710e142705f8 Waiting 
+ e0d55fdb4d15 Waiting 
+ c1cb13b19080 Waiting 
+ cb628c265f09 Waiting 
+ f9dd052e142d Pulling fs layer 
+ e8c6d4883897 Pulling fs layer 
+ 648eb81b3252 Pulling fs layer 
+ eb77aa907276 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 0ffa8f8aba1e Pulling fs layer 
+ 2e81b9cb93cd Pulling fs layer 
+ f9dd052e142d Waiting 
+ 648eb81b3252 Waiting 
+ eb77aa907276 Waiting 
+ 4f4fb700ef54 Waiting 
+ 0ffa8f8aba1e Waiting 
+ 2e81b9cb93cd Waiting 
+ dc35057c3d27 Downloading [=========================================>         ]     721B/875B
+ 68bef8a2321a Downloading [================================>                  ]     720B/1.102kB
+ dc35057c3d27 Downloading [==================================================>]     875B/875B
+ 68bef8a2321a Download complete 
+ dc35057c3d27 Download complete 
+ 84a2afebaf4d Downloading [>                                                  ]  294.9kB/28.24MB
+ 84a2afebaf4d Downloading [==============>                                    ]   7.94MB/28.24MB
+ 84a2afebaf4d Downloading [=============================================>     ]  25.74MB/28.24MB
+ 84a2afebaf4d Verifying Checksum 
+ 84a2afebaf4d Download complete 
+ 762d5b1c0ef7 Downloading [>                                                  ]  14.41kB/1.438MB
+ 84a2afebaf4d Extracting [>                                                  ]  294.9kB/28.24MB
+ 1196a886e941 Downloading [>                                                  ]  156.1kB/15.35MB
+ 762d5b1c0ef7 Verifying Checksum 
+ 762d5b1c0ef7 Download complete 
+ 1196a886e941 Downloading [=========================>                         ]  7.796MB/15.35MB
+ 84a2afebaf4d Extracting [============>                                      ]  6.783MB/28.24MB
+ 1196a886e941 Download complete 
+ 84a2afebaf4d Extracting [===================>                               ]  10.91MB/28.24MB
+ 96afa962f1ac Downloading [==================================================>]      96B/96B
+ 96afa962f1ac Verifying Checksum 
+ 96afa962f1ac Download complete 
+ 84a2afebaf4d Extracting [=================================>                 ]  18.87MB/28.24MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 6475cc3afbe1 Downloading [==================================================>]     573B/573B
+ 6475cc3afbe1 Verifying Checksum 
+ 6475cc3afbe1 Download complete 
+ 84a2afebaf4d Extracting [==========================================>        ]  23.89MB/28.24MB
+ 20043066d3d5 Downloading [>                                                  ]  298.8kB/29.72MB
+ 84a2afebaf4d Extracting [================================================>  ]  27.13MB/28.24MB
+ 7084ac8f4ab6 Downloading [>                                                  ]  76.41kB/7.468MB
+ 3fadc669ef11 Downloading [>                                                  ]  437.4kB/43.48MB
+ 20043066d3d5 Downloading [==========>                                        ]  6.423MB/29.72MB
+ 7084ac8f4ab6 Downloading [============================>                      ]  4.331MB/7.468MB
+ 7084ac8f4ab6 Verifying Checksum 
+ 7084ac8f4ab6 Download complete 
+ 3fadc669ef11 Downloading [==========>                                        ]  8.857MB/43.48MB
+ 20043066d3d5 Downloading [=======================================>           ]  23.61MB/29.72MB
+ 84a2afebaf4d Extracting [================================================>  ]  27.43MB/28.24MB
+ 20043066d3d5 Download complete 
+ 20043066d3d5 Extracting [>                                                  ]  327.7kB/29.72MB
+ 84a2afebaf4d Extracting [==================================================>]  28.24MB/28.24MB
+ 3fadc669ef11 Downloading [=================>                                 ]  15.54MB/43.48MB
+ 84a2afebaf4d Pull complete 
+ 68bef8a2321a Extracting [==================================================>]  1.102kB/1.102kB
+ 68bef8a2321a Extracting [==================================================>]  1.102kB/1.102kB
+ 20043066d3d5 Extracting [=========>                                         ]  5.571MB/29.72MB
+ 3fadc669ef11 Downloading [======================>                            ]  19.53MB/43.48MB
+ beb0d870d438 Downloading [===>                                               ]     719B/9.462kB
+ beb0d870d438 Verifying Checksum 
+ beb0d870d438 Download complete 
+ 20043066d3d5 Extracting [===============>                                   ]  9.503MB/29.72MB
+ 3fadc669ef11 Downloading [=========================>                         ]  22.19MB/43.48MB
+ d63c4408fdb7 Downloading [>                                                  ]  215.3kB/21.31MB
+ 20043066d3d5 Extracting [===========================>                       ]  16.38MB/29.72MB
+ 3fadc669ef11 Downloading [=============================>                     ]   25.3MB/43.48MB
+ d63c4408fdb7 Downloading [======================>                            ]  9.523MB/21.31MB
+ 20043066d3d5 Extracting [========================================>          ]  24.25MB/29.72MB
+ efa05c660812 Downloading [==================================================>]     189B/189B
+ efa05c660812 Verifying Checksum 
+ efa05c660812 Download complete 
+ d63c4408fdb7 Verifying Checksum 
+ d63c4408fdb7 Download complete 
+ 3fadc669ef11 Downloading [=================================>                 ]  28.86MB/43.48MB
+ 20043066d3d5 Extracting [==========================================>        ]  25.56MB/29.72MB
+ 3fadc669ef11 Downloading [======================================>            ]  33.74MB/43.48MB
+ 20043066d3d5 Extracting [===============================================>   ]  28.51MB/29.72MB
+ 3fadc669ef11 Downloading [============================================>      ]  38.64MB/43.48MB
+ 5e1c03b67a78 Downloading [==================================================>]     620B/620B
+ 5e1c03b67a78 Verifying Checksum 
+ 5e1c03b67a78 Download complete 
+ f4e7f62f4b80 Downloading [==================================================>]     109B/109B
+ f4e7f62f4b80 Download complete 
+ 3fadc669ef11 Downloading [==============================================>    ]  40.85MB/43.48MB
+ 20043066d3d5 Extracting [==================================================>]  29.72MB/29.72MB
+ 3fadc669ef11 Verifying Checksum 
+ 3fadc669ef11 Download complete 
+ 20043066d3d5 Pull complete 
+ 14e6209d5fa8 Downloading [===========================================>       ]     720B/833B
+ 14e6209d5fa8 Downloading [==================================================>]     833B/833B
+ 14e6209d5fa8 Verifying Checksum 
+ 14e6209d5fa8 Download complete 
+ 3fadc669ef11 Extracting [>                                                  ]  458.8kB/43.48MB
+ d686b50ce172 Downloading [>                                                  ]    127kB/12.47MB
+ 3fadc669ef11 Extracting [==========>                                        ]  9.175MB/43.48MB
+ d686b50ce172 Downloading [====================>                              ]   5.12MB/12.47MB
+ d686b50ce172 Verifying Checksum 
+ d686b50ce172 Download complete 
+ b0a0cf830b12 Downloading [>                                                  ]  298.8kB/29.15MB
+ 3fadc669ef11 Extracting [===================>                               ]  16.97MB/43.48MB
+ dda3d8fbd5ed Downloading [==============================>                    ]     720B/1.165kB
+ dda3d8fbd5ed Downloading [==================================================>]  1.165kB/1.165kB
+ dda3d8fbd5ed Verifying Checksum 
+ dda3d8fbd5ed Download complete 
+ b0a0cf830b12 Downloading [==================>                                ]  10.98MB/29.15MB
+ 3fadc669ef11 Extracting [===============================>                   ]  27.07MB/43.48MB
+ b0a0cf830b12 Download complete 
+ 3fadc669ef11 Extracting [=======================================>           ]  33.95MB/43.48MB
+ b0a0cf830b12 Extracting [>                                                  ]  294.9kB/29.15MB
+ 283a477db7bb Downloading [>                                                  ]  45.66kB/4.533MB
+ 91d2729fa4d5 Downloading [>                                                  ]  15.73kB/1.45MB
+ 3fadc669ef11 Extracting [================================================>  ]  42.21MB/43.48MB
+ 3fadc669ef11 Extracting [==================================================>]  43.48MB/43.48MB
+ b0a0cf830b12 Extracting [=========>                                         ]  5.308MB/29.15MB
+ 283a477db7bb Downloading [=========================>                         ]  2.271MB/4.533MB
+ 91d2729fa4d5 Downloading [==================================================>]   1.45MB/1.45MB
+ 91d2729fa4d5 Verifying Checksum 
+ 91d2729fa4d5 Download complete 
+ 283a477db7bb Verifying Checksum 
+ 283a477db7bb Download complete 
+ 3fadc669ef11 Pull complete 
+ 7084ac8f4ab6 Extracting [>                                                  ]   98.3kB/7.468MB
+ b0a0cf830b12 Extracting [=================>                                 ]  10.03MB/29.15MB
+ 9739ced65621 Downloading [>                                                  ]  83.99kB/8.069MB
+ 7084ac8f4ab6 Extracting [=========>                                         ]  1.475MB/7.468MB
+ b0a0cf830b12 Extracting [========================>                          ]  14.16MB/29.15MB
+ 9739ced65621 Downloading [==========================>                        ]  4.279MB/8.069MB
+ 9739ced65621 Verifying Checksum 
+ 9739ced65621 Download complete 
+ 7084ac8f4ab6 Extracting [================================================>  ]  7.176MB/7.468MB
+ 7084ac8f4ab6 Extracting [==================================================>]  7.468MB/7.468MB
+ 7084ac8f4ab6 Extracting [==================================================>]  7.468MB/7.468MB
+ ae3bb1b347a4 Downloading [>                                                  ]  12.11kB/1.196MB
+ f8406d9c00ea Downloading [==================================================>]     116B/116B
+ f8406d9c00ea Verifying Checksum 
+ f8406d9c00ea Download complete 
+ b0a0cf830b12 Extracting [====================================>              ]  21.53MB/29.15MB
+ ae3bb1b347a4 Verifying Checksum 
+ ae3bb1b347a4 Download complete 
+ b0a0cf830b12 Extracting [==========================================>        ]  24.77MB/29.15MB
+ c199bff16b05 Downloading [===========>                                       ]     720B/3.145kB
+ c199bff16b05 Downloading [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Verifying Checksum 
+ c199bff16b05 Download complete 
+ b0a0cf830b12 Extracting [================================================>  ]  28.02MB/29.15MB
+ e0d55fdb4d15 Downloading [>                                                  ]  540.7kB/109MB
+ c1cb13b19080 Downloading [===>                                               ]     687B/9.925kB
+ c1cb13b19080 Downloading [==================================================>]  9.925kB/9.925kB
+ c1cb13b19080 Verifying Checksum 
+ c1cb13b19080 Download complete 
+ e0d55fdb4d15 Downloading [======>                                            ]  13.99MB/109MB
+ 873532e5f8c7 Downloading [==================================================>]     128B/128B
+ 873532e5f8c7 Verifying Checksum 
+ 873532e5f8c7 Download complete 
+ b0a0cf830b12 Extracting [================================================>  ]  28.31MB/29.15MB
+ e0d55fdb4d15 Downloading [==========>                                        ]  23.59MB/109MB
+ b0a0cf830b12 Extracting [==================================================>]  29.15MB/29.15MB
+ 050d9f8c3b1c Downloading [==================================================>]     169B/169B
+ 050d9f8c3b1c Verifying Checksum 
+ 050d9f8c3b1c Download complete 
+ e0d55fdb4d15 Downloading [====================>                              ]  43.89MB/109MB
+ 710e142705f8 Downloading [======>                                            ]     719B/5.421kB
+ 710e142705f8 Download complete 
+ b0a0cf830b12 Pull complete 
+ dda3d8fbd5ed Extracting [==================================================>]  1.165kB/1.165kB
+ dda3d8fbd5ed Extracting [==================================================>]  1.165kB/1.165kB
+ e0d55fdb4d15 Downloading [=============================>                     ]  64.19MB/109MB
+ cb628c265f09 Downloading [==================================================>]     184B/184B
+ cb628c265f09 Verifying Checksum 
+ cb628c265f09 Download complete 
+ e0d55fdb4d15 Downloading [=====================================>             ]  80.81MB/109MB
+ e0d55fdb4d15 Downloading [==============================================>    ]  101.6MB/109MB
+ e0d55fdb4d15 Verifying Checksum 
+ e0d55fdb4d15 Download complete 
+ f9dd052e142d Downloading [>                                                  ]  532.5kB/52.33MB
+ e8c6d4883897 Downloading [>                                                  ]  44.93kB/4.398MB
+ f9dd052e142d Downloading [=========>                                         ]  10.04MB/52.33MB
+ e8c6d4883897 Downloading [===========================>                       ]  2.441MB/4.398MB
+ f9dd052e142d Downloading [========================>                          ]  25.45MB/52.33MB
+ 648eb81b3252 Downloading [=======================>                           ]     719B/1.561kB
+ 648eb81b3252 Downloading [==================================================>]  1.561kB/1.561kB
+ 648eb81b3252 Verifying Checksum 
+ 648eb81b3252 Download complete 
+ e8c6d4883897 Verifying Checksum 
+ e8c6d4883897 Download complete 
+ f9dd052e142d Downloading [======================================>            ]   40.3MB/52.33MB
+ f9dd052e142d Verifying Checksum 
+ f9dd052e142d Download complete 
+ f9dd052e142d Extracting [>                                                  ]  524.3kB/52.33MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ f9dd052e142d Extracting [===>                                               ]   3.67MB/52.33MB
+ eb77aa907276 Downloading [>                                                  ]  532.5kB/907.7MB
+ 0ffa8f8aba1e Downloading [==================================================>]     226B/226B
+ 0ffa8f8aba1e Verifying Checksum 
+ 0ffa8f8aba1e Download complete 
+ eb77aa907276 Downloading [>                                                  ]  9.646MB/907.7MB
+ f9dd052e142d Extracting [=====>                                             ]  5.243MB/52.33MB
+ 2e81b9cb93cd Downloading [===================>                               ]     707B/1.859kB
+ 2e81b9cb93cd Downloading [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Verifying Checksum 
+ 2e81b9cb93cd Download complete 
+ eb77aa907276 Downloading [>                                                  ]  14.97MB/907.7MB
+ f9dd052e142d Extracting [===========>                                       ]  12.06MB/52.33MB
+ f9dd052e142d Extracting [===================>                               ]  19.92MB/52.33MB
+ eb77aa907276 Downloading [=>                                                 ]  20.87MB/907.7MB
+ eb77aa907276 Downloading [=>                                                 ]  25.65MB/907.7MB
+ f9dd052e142d Extracting [=====================>                             ]  22.54MB/52.33MB
+ eb77aa907276 Downloading [=>                                                 ]     31MB/907.7MB
+ f9dd052e142d Extracting [==========================>                        ]  27.26MB/52.33MB
+ 68bef8a2321a Pull complete 
+ eb77aa907276 Downloading [=>                                                 ]  35.84MB/907.7MB
+ dc35057c3d27 Extracting [==================================================>]     875B/875B
+ f9dd052e142d Extracting [===========================>                       ]  28.84MB/52.33MB
+ dc35057c3d27 Extracting [==================================================>]     875B/875B
+ eb77aa907276 Downloading [==>                                                ]  43.31MB/907.7MB
+ 7084ac8f4ab6 Pull complete 
+ eb77aa907276 Downloading [==>                                                ]  47.07MB/907.7MB
+ f9dd052e142d Extracting [============================>                      ]  29.88MB/52.33MB
+ beb0d870d438 Extracting [==================================================>]  9.462kB/9.462kB
+ beb0d870d438 Extracting [==================================================>]  9.462kB/9.462kB
+ dda3d8fbd5ed Pull complete 
+ dc35057c3d27 Pull complete 
+ 762d5b1c0ef7 Extracting [=>                                                 ]  32.77kB/1.438MB
+ 283a477db7bb Extracting [>                                                  ]  65.54kB/4.533MB
+ beb0d870d438 Pull complete 
+ eb77aa907276 Downloading [==>                                                ]   50.8MB/907.7MB
+ d63c4408fdb7 Extracting [>                                                  ]  229.4kB/21.31MB
+ f9dd052e142d Extracting [=============================>                     ]  30.93MB/52.33MB
+ 762d5b1c0ef7 Extracting [==================================================>]  1.438MB/1.438MB
+ 762d5b1c0ef7 Extracting [==================================================>]  1.438MB/1.438MB
+ 762d5b1c0ef7 Pull complete 
+ 1196a886e941 Extracting [>                                                  ]  163.8kB/15.35MB
+ 283a477db7bb Extracting [====================================>              ]  3.277MB/4.533MB
+ eb77aa907276 Downloading [===>                                               ]  55.09MB/907.7MB
+ d63c4408fdb7 Extracting [======>                                            ]  2.982MB/21.31MB
+ 283a477db7bb Extracting [==================================================>]  4.533MB/4.533MB
+ 1196a886e941 Extracting [=================>                                 ]  5.243MB/15.35MB
+ f9dd052e142d Extracting [===============================>                   ]  33.03MB/52.33MB
+ eb77aa907276 Downloading [===>                                               ]  60.44MB/907.7MB
+ 283a477db7bb Pull complete 
+ 91d2729fa4d5 Extracting [=>                                                 ]  32.77kB/1.45MB
+ d63c4408fdb7 Extracting [================>                                  ]  6.881MB/21.31MB
+ 91d2729fa4d5 Extracting [==================================================>]   1.45MB/1.45MB
+ 1196a886e941 Extracting [=================================>                 ]  10.32MB/15.35MB
+ 91d2729fa4d5 Pull complete 
+ 9739ced65621 Extracting [>                                                  ]   98.3kB/8.069MB
+ eb77aa907276 Downloading [===>                                               ]  64.18MB/907.7MB
+ f9dd052e142d Extracting [=================================>                 ]   34.6MB/52.33MB
+ d63c4408fdb7 Extracting [=====================>                             ]  9.175MB/21.31MB
+ 1196a886e941 Extracting [=================================================> ]  15.24MB/15.35MB
+ 1196a886e941 Extracting [==================================================>]  15.35MB/15.35MB
+ 9739ced65621 Extracting [==================>                                ]  3.047MB/8.069MB
+ eb77aa907276 Downloading [===>                                               ]  66.29MB/907.7MB
+ 1196a886e941 Pull complete 
+ 96afa962f1ac Extracting [==================================================>]      96B/96B
+ 96afa962f1ac Extracting [==================================================>]      96B/96B
+ 96afa962f1ac Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ d63c4408fdb7 Extracting [===========================>                       ]   11.7MB/21.31MB
+ 4f4fb700ef54 Pull complete 
+ 6475cc3afbe1 Extracting [==================================================>]     573B/573B
+ 6475cc3afbe1 Extracting [==================================================>]     573B/573B
+ 6475cc3afbe1 Pull complete 
+ redis Pulled 
+ 9739ced65621 Extracting [=============================>                     ]  4.719MB/8.069MB
+ f9dd052e142d Extracting [===================================>               ]   36.7MB/52.33MB
+ eb77aa907276 Downloading [===>                                               ]  70.03MB/907.7MB
+ d63c4408fdb7 Extracting [==================================>                ]  14.91MB/21.31MB
+ 9739ced65621 Extracting [======================================>            ]  6.291MB/8.069MB
+ eb77aa907276 Downloading [====>                                              ]  73.78MB/907.7MB
+ f9dd052e142d Extracting [=====================================>             ]   38.8MB/52.33MB
+ 9739ced65621 Extracting [==================================================>]  8.069MB/8.069MB
+ d63c4408fdb7 Extracting [======================================>            ]  16.52MB/21.31MB
+ eb77aa907276 Downloading [====>                                              ]  78.05MB/907.7MB
+ f9dd052e142d Extracting [=======================================>           ]  41.42MB/52.33MB
+ 9739ced65621 Pull complete 
+ ae3bb1b347a4 Extracting [=>                                                 ]  32.77kB/1.196MB
+ d63c4408fdb7 Extracting [===========================================>       ]  18.35MB/21.31MB
+ ae3bb1b347a4 Extracting [==================================================>]  1.196MB/1.196MB
+ ae3bb1b347a4 Extracting [==================================================>]  1.196MB/1.196MB
+ eb77aa907276 Downloading [====>                                              ]  82.32MB/907.7MB
+ ae3bb1b347a4 Pull complete 
+ f8406d9c00ea Extracting [==================================================>]     116B/116B
+ f8406d9c00ea Extracting [==================================================>]     116B/116B
+ f9dd052e142d Extracting [==========================================>        ]  44.04MB/52.33MB
+ f8406d9c00ea Pull complete 
+ c199bff16b05 Extracting [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Extracting [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Pull complete 
+ eb77aa907276 Downloading [====>                                              ]  87.67MB/907.7MB
+ e0d55fdb4d15 Extracting [>                                                  ]  557.1kB/109MB
+ f9dd052e142d Extracting [============================================>      ]  46.66MB/52.33MB
+ eb77aa907276 Downloading [=====>                                             ]  93.01MB/907.7MB
+ d63c4408fdb7 Extracting [================================================>  ]  20.87MB/21.31MB
+ e0d55fdb4d15 Extracting [==>                                                ]  6.128MB/109MB
+ f9dd052e142d Extracting [==============================================>    ]  48.76MB/52.33MB
+ d63c4408fdb7 Extracting [==================================================>]  21.31MB/21.31MB
+ d63c4408fdb7 Pull complete 
+ efa05c660812 Extracting [==================================================>]     189B/189B
+ efa05c660812 Extracting [==================================================>]     189B/189B
+ eb77aa907276 Downloading [=====>                                             ]  96.73MB/907.7MB
+ efa05c660812 Pull complete 
+ f4e7f62f4b80 Extracting [==================================================>]     109B/109B
+ f4e7f62f4b80 Extracting [==================================================>]     109B/109B
+ f4e7f62f4b80 Pull complete 
+ 5e1c03b67a78 Extracting [==================================================>]     620B/620B
+ 5e1c03b67a78 Extracting [==================================================>]     620B/620B
+ 5e1c03b67a78 Pull complete 
+ 14e6209d5fa8 Extracting [==================================================>]     833B/833B
+ 14e6209d5fa8 Extracting [==================================================>]     833B/833B
+ e0d55fdb4d15 Extracting [====>                                              ]  8.913MB/109MB
+ 14e6209d5fa8 Pull complete 
+ d686b50ce172 Extracting [>                                                  ]  131.1kB/12.47MB
+ eb77aa907276 Downloading [=====>                                             ]  102.1MB/907.7MB
+ d686b50ce172 Extracting [=================>                                 ]  4.456MB/12.47MB
+ e0d55fdb4d15 Extracting [=====>                                             ]  12.81MB/109MB
+ eb77aa907276 Downloading [=====>                                             ]  106.3MB/907.7MB
+ d686b50ce172 Extracting [=========================>                         ]  6.291MB/12.47MB
+ e0d55fdb4d15 Extracting [=======>                                           ]  16.71MB/109MB
+ f9dd052e142d Extracting [=================================================> ]  51.38MB/52.33MB
+ eb77aa907276 Downloading [======>                                            ]  111.7MB/907.7MB
+ d686b50ce172 Extracting [============================>                      ]  7.209MB/12.47MB
+ e0d55fdb4d15 Extracting [=========>                                         ]  21.73MB/109MB
+ f9dd052e142d Extracting [=================================================> ]   51.9MB/52.33MB
+ f9dd052e142d Extracting [==================================================>]  52.33MB/52.33MB
+ eb77aa907276 Downloading [======>                                            ]    117MB/907.7MB
+ f9dd052e142d Pull complete 
+ e8c6d4883897 Extracting [>                                                  ]  65.54kB/4.398MB
+ d686b50ce172 Extracting [=======================================>           ]   9.83MB/12.47MB
+ e0d55fdb4d15 Extracting [===========>                                       ]  25.62MB/109MB
+ eb77aa907276 Downloading [======>                                            ]  121.9MB/907.7MB
+ e8c6d4883897 Extracting [==========================>                        ]  2.294MB/4.398MB
+ d686b50ce172 Extracting [============================================>      ]  11.14MB/12.47MB
+ e0d55fdb4d15 Extracting [==============>                                    ]   31.2MB/109MB
+ d686b50ce172 Extracting [==================================================>]  12.47MB/12.47MB
+ eb77aa907276 Downloading [=======>                                           ]  127.7MB/907.7MB
+ e8c6d4883897 Extracting [======================================>            ]  3.408MB/4.398MB
+ e0d55fdb4d15 Extracting [=================>                                 ]  38.44MB/109MB
+ e8c6d4883897 Extracting [==================================================>]  4.398MB/4.398MB
+ eb77aa907276 Downloading [=======>                                           ]  133.1MB/907.7MB
+ e0d55fdb4d15 Extracting [====================>                              ]  44.01MB/109MB
+ d686b50ce172 Pull complete 
+ e8c6d4883897 Pull complete 
+ 648eb81b3252 Extracting [==================================================>]  1.561kB/1.561kB
+ 648eb81b3252 Extracting [==================================================>]  1.561kB/1.561kB
+ rabbitmq Pulled 
+ 648eb81b3252 Pull complete 
+ eb77aa907276 Downloading [=======>                                           ]  137.3MB/907.7MB
+ e0d55fdb4d15 Extracting [=======================>                           ]  51.81MB/109MB
+ eb77aa907276 Downloading [=======>                                           ]  143.2MB/907.7MB
+ e0d55fdb4d15 Extracting [=========================>                         ]  56.26MB/109MB
+ eb77aa907276 Downloading [========>                                          ]    148MB/907.7MB
+ e0d55fdb4d15 Extracting [=============================>                     ]  65.18MB/109MB
+ eb77aa907276 Downloading [========>                                          ]  152.8MB/907.7MB
+ e0d55fdb4d15 Extracting [==================================>                ]   75.2MB/109MB
+ eb77aa907276 Downloading [========>                                          ]  157.1MB/907.7MB
+ e0d55fdb4d15 Extracting [======================================>            ]  84.12MB/109MB
+ eb77aa907276 Downloading [========>                                          ]    163MB/907.7MB
+ e0d55fdb4d15 Extracting [==========================================>        ]  91.91MB/109MB
+ eb77aa907276 Downloading [=========>                                         ]  166.7MB/907.7MB
+ e0d55fdb4d15 Extracting [============================================>      ]  96.37MB/109MB
+ eb77aa907276 Downloading [=========>                                         ]  170.4MB/907.7MB
+ e0d55fdb4d15 Extracting [=============================================>     ]  99.71MB/109MB
+ eb77aa907276 Downloading [=========>                                         ]  174.7MB/907.7MB
+ e0d55fdb4d15 Extracting [===============================================>   ]  103.6MB/109MB
+ eb77aa907276 Downloading [=========>                                         ]  178.4MB/907.7MB
+ e0d55fdb4d15 Extracting [================================================>  ]  105.8MB/109MB
+ eb77aa907276 Downloading [==========>                                        ]  182.7MB/907.7MB
+ eb77aa907276 Downloading [==========>                                        ]    187MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================================> ]  107.5MB/109MB
+ eb77aa907276 Downloading [==========>                                        ]  191.8MB/907.7MB
+ e0d55fdb4d15 Extracting [==================================================>]    109MB/109MB
+ eb77aa907276 Downloading [==========>                                        ]  196.6MB/907.7MB
+ eb77aa907276 Downloading [===========>                                       ]  201.5MB/907.7MB
+ eb77aa907276 Downloading [===========>                                       ]  204.7MB/907.7MB
+ eb77aa907276 Downloading [===========>                                       ]  209.4MB/907.7MB
+ e0d55fdb4d15 Pull complete 
+ c1cb13b19080 Extracting [==================================================>]  9.925kB/9.925kB
+ c1cb13b19080 Extracting [==================================================>]  9.925kB/9.925kB
+ eb77aa907276 Downloading [===========>                                       ]  213.7MB/907.7MB
+ c1cb13b19080 Pull complete 
+ 873532e5f8c7 Extracting [==================================================>]     128B/128B
+ 873532e5f8c7 Extracting [==================================================>]     128B/128B
+ 873532e5f8c7 Pull complete 
+ 050d9f8c3b1c Extracting [==================================================>]     169B/169B
+ 050d9f8c3b1c Extracting [==================================================>]     169B/169B
+ 050d9f8c3b1c Pull complete 
+ 710e142705f8 Extracting [==================================================>]  5.421kB/5.421kB
+ 710e142705f8 Extracting [==================================================>]  5.421kB/5.421kB
+ 710e142705f8 Pull complete 
+ cb628c265f09 Extracting [==================================================>]     184B/184B
+ cb628c265f09 Extracting [==================================================>]     184B/184B
+ cb628c265f09 Pull complete 
+ postgresql Pulled 
+ eb77aa907276 Downloading [============>                                      ]  218.5MB/907.7MB
+ eb77aa907276 Downloading [============>                                      ]  222.3MB/907.7MB
+ eb77aa907276 Downloading [============>                                      ]  227.1MB/907.7MB
+ eb77aa907276 Downloading [============>                                      ]  230.8MB/907.7MB
+ eb77aa907276 Downloading [============>                                      ]  235.6MB/907.7MB
+ eb77aa907276 Downloading [=============>                                     ]  239.4MB/907.7MB
+ eb77aa907276 Downloading [=============>                                     ]  243.1MB/907.7MB
+ eb77aa907276 Downloading [=============>                                     ]  247.9MB/907.7MB
+ eb77aa907276 Downloading [=============>                                     ]  251.1MB/907.7MB
+ eb77aa907276 Downloading [==============>                                    ]  255.9MB/907.7MB
+ eb77aa907276 Downloading [==============>                                    ]  258.6MB/907.7MB
+ eb77aa907276 Downloading [==============>                                    ]  261.2MB/907.7MB
+ eb77aa907276 Downloading [==============>                                    ]    265MB/907.7MB
+ eb77aa907276 Downloading [==============>                                    ]  267.1MB/907.7MB
+ eb77aa907276 Downloading [==============>                                    ]  270.3MB/907.7MB
+ eb77aa907276 Downloading [===============>                                   ]  274.6MB/907.7MB
+ eb77aa907276 Downloading [===============>                                   ]  279.4MB/907.7MB
+ eb77aa907276 Downloading [===============>                                   ]  284.2MB/907.7MB
+ eb77aa907276 Downloading [===============>                                   ]  288.5MB/907.7MB
+ eb77aa907276 Downloading [================>                                  ]  293.3MB/907.7MB
+ eb77aa907276 Downloading [================>                                  ]  298.6MB/907.7MB
+ eb77aa907276 Downloading [================>                                  ]    304MB/907.7MB
+ eb77aa907276 Downloading [=================>                                 ]  309.3MB/907.7MB
+ eb77aa907276 Downloading [=================>                                 ]  314.1MB/907.7MB
+ eb77aa907276 Downloading [=================>                                 ]  318.9MB/907.7MB
+ eb77aa907276 Downloading [=================>                                 ]  322.7MB/907.7MB
+ eb77aa907276 Downloading [==================>                                ]    328MB/907.7MB
+ eb77aa907276 Downloading [==================>                                ]  332.3MB/907.7MB
+ eb77aa907276 Downloading [==================>                                ]  337.1MB/907.7MB
+ eb77aa907276 Downloading [==================>                                ]  342.5MB/907.7MB
+ eb77aa907276 Downloading [===================>                               ]  347.3MB/907.7MB
+ eb77aa907276 Downloading [===================>                               ]  352.1MB/907.7MB
+ eb77aa907276 Downloading [===================>                               ]  357.4MB/907.7MB
+ eb77aa907276 Downloading [===================>                               ]  362.8MB/907.7MB
+ eb77aa907276 Downloading [====================>                              ]  368.1MB/907.7MB
+ eb77aa907276 Downloading [====================>                              ]    374MB/907.7MB
+ eb77aa907276 Downloading [====================>                              ]  378.8MB/907.7MB
+ eb77aa907276 Downloading [=====================>                             ]  383.1MB/907.7MB
+ eb77aa907276 Downloading [=====================>                             ]  388.4MB/907.7MB
+ eb77aa907276 Downloading [=====================>                             ]  392.7MB/907.7MB
+ eb77aa907276 Downloading [=====================>                             ]  394.8MB/907.7MB
+ eb77aa907276 Downloading [=====================>                             ]    398MB/907.7MB
+ eb77aa907276 Downloading [======================>                            ]  402.3MB/907.7MB
+ eb77aa907276 Downloading [======================>                            ]  406.6MB/907.7MB
+ eb77aa907276 Downloading [======================>                            ]  410.3MB/907.7MB
+ eb77aa907276 Downloading [======================>                            ]  414.6MB/907.7MB
+ eb77aa907276 Downloading [=======================>                           ]  418.8MB/907.7MB
+ eb77aa907276 Downloading [=======================>                           ]  419.4MB/907.7MB
+ eb77aa907276 Downloading [=======================>                           ]  424.2MB/907.7MB
+ eb77aa907276 Downloading [=======================>                           ]  429.5MB/907.7MB
+ eb77aa907276 Downloading [=======================>                           ]  433.8MB/907.7MB
+ eb77aa907276 Downloading [========================>                          ]    437MB/907.7MB
+ eb77aa907276 Downloading [========================>                          ]  441.3MB/907.7MB
+ eb77aa907276 Downloading [========================>                          ]  445.6MB/907.7MB
+ eb77aa907276 Downloading [========================>                          ]  449.8MB/907.7MB
+ eb77aa907276 Downloading [=========================>                         ]  454.6MB/907.7MB
+ eb77aa907276 Downloading [=========================>                         ]  459.5MB/907.7MB
+ eb77aa907276 Downloading [=========================>                         ]  465.3MB/907.7MB
+ eb77aa907276 Downloading [=========================>                         ]  469.6MB/907.7MB
+ eb77aa907276 Downloading [==========================>                        ]    475MB/907.7MB
+ eb77aa907276 Downloading [==========================>                        ]  480.3MB/907.7MB
+ eb77aa907276 Downloading [==========================>                        ]    484MB/907.7MB
+ eb77aa907276 Downloading [==========================>                        ]  486.7MB/907.7MB
+ eb77aa907276 Downloading [===========================>                       ]    491MB/907.7MB
+ eb77aa907276 Downloading [===========================>                       ]  494.2MB/907.7MB
+ eb77aa907276 Downloading [===========================>                       ]    499MB/907.7MB
+ eb77aa907276 Downloading [===========================>                       ]  504.3MB/907.7MB
+ eb77aa907276 Downloading [============================>                      ]  509.7MB/907.7MB
+ eb77aa907276 Downloading [============================>                      ]  513.4MB/907.7MB
+ eb77aa907276 Downloading [============================>                      ]  516.6MB/907.7MB
+ eb77aa907276 Downloading [============================>                      ]  519.8MB/907.7MB
+ eb77aa907276 Downloading [============================>                      ]  523.5MB/907.7MB
+ eb77aa907276 Downloading [=============================>                     ]  527.8MB/907.7MB
+ eb77aa907276 Downloading [=============================>                     ]    531MB/907.7MB
+ eb77aa907276 Downloading [=============================>                     ]  534.8MB/907.7MB
+ eb77aa907276 Downloading [=============================>                     ]    539MB/907.7MB
+ eb77aa907276 Downloading [=============================>                     ]  543.8MB/907.7MB
+ eb77aa907276 Downloading [==============================>                    ]  548.1MB/907.7MB
+ eb77aa907276 Downloading [==============================>                    ]  552.9MB/907.7MB
+ eb77aa907276 Downloading [==============================>                    ]  556.1MB/907.7MB
+ eb77aa907276 Downloading [==============================>                    ]  560.9MB/907.7MB
+ eb77aa907276 Downloading [===============================>                   ]  565.7MB/907.7MB
+ eb77aa907276 Downloading [===============================>                   ]    570MB/907.7MB
+ eb77aa907276 Downloading [===============================>                   ]  574.3MB/907.7MB
+ eb77aa907276 Downloading [===============================>                   ]  577.5MB/907.7MB
+ eb77aa907276 Downloading [================================>                  ]  581.2MB/907.7MB
+ eb77aa907276 Downloading [================================>                  ]  583.9MB/907.7MB
+ eb77aa907276 Downloading [================================>                  ]  588.1MB/907.7MB
+ eb77aa907276 Downloading [================================>                  ]  592.9MB/907.7MB
+ eb77aa907276 Downloading [================================>                  ]  597.7MB/907.7MB
+ eb77aa907276 Downloading [=================================>                 ]  601.5MB/907.7MB
+ eb77aa907276 Downloading [=================================>                 ]  604.7MB/907.7MB
+ eb77aa907276 Downloading [=================================>                 ]  607.3MB/907.7MB
+ eb77aa907276 Downloading [=================================>                 ]    610MB/907.7MB
+ eb77aa907276 Downloading [=================================>                 ]  613.7MB/907.7MB
+ eb77aa907276 Downloading [==================================>                ]    618MB/907.7MB
+ eb77aa907276 Downloading [==================================>                ]  620.1MB/907.7MB
+ eb77aa907276 Downloading [==================================>                ]  624.9MB/907.7MB
+ eb77aa907276 Downloading [==================================>                ]  630.3MB/907.7MB
+ eb77aa907276 Downloading [==================================>                ]  634.6MB/907.7MB
+ eb77aa907276 Downloading [===================================>               ]  638.8MB/907.7MB
+ eb77aa907276 Downloading [===================================>               ]  642.6MB/907.7MB
+ eb77aa907276 Downloading [===================================>               ]  646.8MB/907.7MB
+ eb77aa907276 Downloading [===================================>               ]  650.6MB/907.7MB
+ eb77aa907276 Downloading [====================================>              ]  654.9MB/907.7MB
+ eb77aa907276 Downloading [====================================>              ]  658.6MB/907.7MB
+ eb77aa907276 Downloading [====================================>              ]  662.3MB/907.7MB
+ eb77aa907276 Downloading [====================================>              ]  666.6MB/907.7MB
+ eb77aa907276 Downloading [====================================>              ]  670.9MB/907.7MB
+ eb77aa907276 Downloading [=====================================>             ]  675.2MB/907.7MB
+ eb77aa907276 Downloading [=====================================>             ]  678.3MB/907.7MB
+ eb77aa907276 Downloading [=====================================>             ]  681.5MB/907.7MB
+ eb77aa907276 Downloading [=====================================>             ]  686.3MB/907.7MB
+ eb77aa907276 Downloading [=====================================>             ]  688.4MB/907.7MB
+ eb77aa907276 Downloading [======================================>            ]  691.7MB/907.7MB
+ eb77aa907276 Downloading [======================================>            ]  695.4MB/907.7MB
+ eb77aa907276 Downloading [======================================>            ]    698MB/907.7MB
+ eb77aa907276 Downloading [======================================>            ]  700.2MB/907.7MB
+ eb77aa907276 Downloading [======================================>            ]  702.3MB/907.7MB
+ eb77aa907276 Downloading [======================================>            ]  706.6MB/907.7MB
+ eb77aa907276 Downloading [=======================================>           ]  710.8MB/907.7MB
+ eb77aa907276 Downloading [=======================================>           ]  714.1MB/907.7MB
+ eb77aa907276 Downloading [=======================================>           ]  717.3MB/907.7MB
+ eb77aa907276 Downloading [=======================================>           ]  720.5MB/907.7MB
+ eb77aa907276 Downloading [=======================================>           ]  724.2MB/907.7MB
+ eb77aa907276 Downloading [========================================>          ]    728MB/907.7MB
+ eb77aa907276 Downloading [========================================>          ]  732.8MB/907.7MB
+ eb77aa907276 Downloading [========================================>          ]  736.5MB/907.7MB
+ eb77aa907276 Downloading [========================================>          ]  740.8MB/907.7MB
+ eb77aa907276 Downloading [=========================================>         ]  744.5MB/907.7MB
+ eb77aa907276 Downloading [=========================================>         ]  748.2MB/907.7MB
+ eb77aa907276 Downloading [=========================================>         ]  750.4MB/907.7MB
+ eb77aa907276 Downloading [=========================================>         ]  755.7MB/907.7MB
+ eb77aa907276 Downloading [=========================================>         ]  758.9MB/907.7MB
+ eb77aa907276 Downloading [==========================================>        ]  763.7MB/907.7MB
+ eb77aa907276 Downloading [==========================================>        ]  768.5MB/907.7MB
+ eb77aa907276 Downloading [==========================================>        ]  772.2MB/907.7MB
+ eb77aa907276 Downloading [==========================================>        ]  774.9MB/907.7MB
+ eb77aa907276 Downloading [==========================================>        ]    777MB/907.7MB
+ eb77aa907276 Downloading [==========================================>        ]  777.5MB/907.7MB
+ eb77aa907276 Downloading [===========================================>       ]  782.9MB/907.7MB
+ eb77aa907276 Downloading [===========================================>       ]  787.7MB/907.7MB
+ eb77aa907276 Downloading [===========================================>       ]    793MB/907.7MB
+ eb77aa907276 Downloading [===========================================>       ]  797.8MB/907.7MB
+ eb77aa907276 Downloading [============================================>      ]  802.1MB/907.7MB
+ eb77aa907276 Downloading [============================================>      ]  805.8MB/907.7MB
+ eb77aa907276 Downloading [============================================>      ]  810.6MB/907.7MB
+ eb77aa907276 Downloading [============================================>      ]  814.3MB/907.7MB
+ eb77aa907276 Downloading [=============================================>     ]  818.6MB/907.7MB
+ eb77aa907276 Downloading [=============================================>     ]  822.9MB/907.7MB
+ eb77aa907276 Downloading [=============================================>     ]  825.5MB/907.7MB
+ eb77aa907276 Downloading [=============================================>     ]  828.7MB/907.7MB
+ eb77aa907276 Downloading [=============================================>     ]  831.9MB/907.7MB
+ eb77aa907276 Downloading [=============================================>     ]  833.5MB/907.7MB
+ eb77aa907276 Downloading [==============================================>    ]  836.7MB/907.7MB
+ eb77aa907276 Downloading [==============================================>    ]  839.4MB/907.7MB
+ eb77aa907276 Downloading [==============================================>    ]  842.6MB/907.7MB
+ eb77aa907276 Downloading [==============================================>    ]  844.8MB/907.7MB
+ eb77aa907276 Downloading [==============================================>    ]  846.9MB/907.7MB
+ eb77aa907276 Downloading [==============================================>    ]    849MB/907.7MB
+ eb77aa907276 Downloading [==============================================>    ]  851.7MB/907.7MB
+ eb77aa907276 Downloading [===============================================>   ]  854.9MB/907.7MB
+ eb77aa907276 Downloading [===============================================>   ]  858.6MB/907.7MB
+ eb77aa907276 Downloading [===============================================>   ]  862.9MB/907.7MB
+ eb77aa907276 Downloading [===============================================>   ]  867.2MB/907.7MB
+ eb77aa907276 Downloading [================================================>  ]  872.6MB/907.7MB
+ eb77aa907276 Downloading [================================================>  ]  877.4MB/907.7MB
+ eb77aa907276 Downloading [================================================>  ]  882.1MB/907.7MB
+ eb77aa907276 Downloading [================================================>  ]  886.4MB/907.7MB
+ eb77aa907276 Downloading [=================================================> ]  890.2MB/907.7MB
+ eb77aa907276 Downloading [=================================================> ]  892.3MB/907.7MB
+ eb77aa907276 Downloading [=================================================> ]  896.6MB/907.7MB
+ eb77aa907276 Downloading [=================================================> ]    902MB/907.7MB
+ eb77aa907276 Downloading [=================================================> ]  906.2MB/907.7MB
+ eb77aa907276 Download complete 
+ eb77aa907276 Extracting [>                                                  ]  557.1kB/907.7MB
+ eb77aa907276 Extracting [=>                                                 ]  25.62MB/907.7MB
+ eb77aa907276 Extracting [==>                                                ]  50.14MB/907.7MB
+ eb77aa907276 Extracting [====>                                              ]  76.32MB/907.7MB
+ eb77aa907276 Extracting [====>                                              ]  89.69MB/907.7MB
+ eb77aa907276 Extracting [=====>                                             ]   98.6MB/907.7MB
+ eb77aa907276 Extracting [=====>                                             ]  107.5MB/907.7MB
+ eb77aa907276 Extracting [======>                                            ]    117MB/907.7MB
+ eb77aa907276 Extracting [======>                                            ]  125.9MB/907.7MB
+ eb77aa907276 Extracting [=======>                                           ]  134.8MB/907.7MB
+ eb77aa907276 Extracting [=======>                                           ]  142.6MB/907.7MB
+ eb77aa907276 Extracting [========>                                          ]  150.4MB/907.7MB
+ eb77aa907276 Extracting [========>                                          ]  158.8MB/907.7MB
+ eb77aa907276 Extracting [==========>                                        ]  182.2MB/907.7MB
+ eb77aa907276 Extracting [===========>                                       ]  205.6MB/907.7MB
+ eb77aa907276 Extracting [===========>                                       ]  217.3MB/907.7MB
+ eb77aa907276 Extracting [============>                                      ]    229MB/907.7MB
+ eb77aa907276 Extracting [=============>                                     ]  238.4MB/907.7MB
+ eb77aa907276 Extracting [=============>                                     ]  252.3MB/907.7MB
+ eb77aa907276 Extracting [===============>                                   ]  274.6MB/907.7MB
+ eb77aa907276 Extracting [================>                                  ]  301.4MB/907.7MB
+ eb77aa907276 Extracting [=================>                                 ]  324.2MB/907.7MB
+ eb77aa907276 Extracting [===================>                               ]    347MB/907.7MB
+ eb77aa907276 Extracting [===================>                               ]  362.1MB/907.7MB
+ eb77aa907276 Extracting [====================>                              ]  369.9MB/907.7MB
+ eb77aa907276 Extracting [=====================>                             ]  384.4MB/907.7MB
+ eb77aa907276 Extracting [======================>                            ]  406.7MB/907.7MB
+ eb77aa907276 Extracting [========================>                          ]  436.7MB/907.7MB
+ eb77aa907276 Extracting [=========================>                         ]  467.9MB/907.7MB
+ eb77aa907276 Extracting [===========================>                       ]    498MB/907.7MB
+ eb77aa907276 Extracting [=============================>                     ]  528.1MB/907.7MB
+ eb77aa907276 Extracting [==============================>                    ]  558.2MB/907.7MB
+ eb77aa907276 Extracting [================================>                  ]  586.6MB/907.7MB
+ eb77aa907276 Extracting [=================================>                 ]  613.3MB/907.7MB
+ eb77aa907276 Extracting [===================================>               ]  643.4MB/907.7MB
+ eb77aa907276 Extracting [=====================================>             ]  673.5MB/907.7MB
+ eb77aa907276 Extracting [======================================>            ]  703.6MB/907.7MB
+ eb77aa907276 Extracting [========================================>          ]  731.4MB/907.7MB
+ eb77aa907276 Extracting [=========================================>         ]  754.8MB/907.7MB
+ eb77aa907276 Extracting [==========================================>        ]  777.1MB/907.7MB
+ eb77aa907276 Extracting [============================================>      ]  799.9MB/907.7MB
+ eb77aa907276 Extracting [=============================================>     ]  822.8MB/907.7MB
+ eb77aa907276 Extracting [==============================================>    ]  845.6MB/907.7MB
+ eb77aa907276 Extracting [===============================================>   ]  867.9MB/907.7MB
+ eb77aa907276 Extracting [=================================================> ]  891.3MB/907.7MB
+ eb77aa907276 Extracting [==================================================>]  907.7MB/907.7MB
+ eb77aa907276 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 0ffa8f8aba1e Extracting [==================================================>]     226B/226B
+ 0ffa8f8aba1e Extracting [==================================================>]     226B/226B
+ 0ffa8f8aba1e Pull complete 
+ 2e81b9cb93cd Extracting [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Extracting [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Pull complete 
+ opensearch Pulled 
+ Network docker_services_cli_default  Creating
+ Network docker_services_cli_default  Created
+ Container docker_services_cli-postgresql-1  Creating
+ Container docker_services_cli-redis-1  Creating
+ Container docker_services_cli-opensearch-1  Creating
+ Container docker_services_cli-rabbitmq-1  Creating
+ Container docker_services_cli-rabbitmq-1  Created
+ Container docker_services_cli-redis-1  Created
+ Container docker_services_cli-opensearch-1  Created
+ Container docker_services_cli-postgresql-1  Created
+ Container docker_services_cli-postgresql-1  Starting
+ Container docker_services_cli-rabbitmq-1  Starting
+ Container docker_services_cli-opensearch-1  Starting
+ Container docker_services_cli-redis-1  Starting
+ Container docker_services_cli-redis-1  Started
+ Container docker_services_cli-opensearch-1  Started
+ Container docker_services_cli-postgresql-1  Started
+ Container docker_services_cli-rabbitmq-1  Started
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/webargs/compat.py,line=8::The '__version__' attribute is deprecated and will be removed in in a future version. Use feature detection or 'importlib.metadata.version("marshmallow")' instead.
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/webargs/compat.py,line=8::distutils Version classes are deprecated. Use packaging.version instead.
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/webargs/__init__.py,line=13::distutils Version classes are deprecated. Use packaging.version instead.
+============================= test session starts ==============================
+platform linux -- Python 3.9.25, pytest-8.4.2, pluggy-1.6.0
+rootdir: /home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original
+configfile: setup.cfg
+testpaths: docs, tests, invenio_records_rest
+plugins: invenio-4.0.0, isort-4.0.0, flask-1.3.0, github-actions-annotate-failures-0.3.0, pydocstyle-2.4.0, cov-7.0.0, black-0.6.0, pycodestyle-2.5.0
+collected 131 items
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/datacite/rest_client.py,line=23::Implicit imports (e.g., 'import idutils; idutils.function;') might be removed in the next major version. Please use explicit imports (e.g., 'from idutils import function;') instead.
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/datacite/jsonutils.py,line=15::jsonschema.RefResolver is deprecated as of v4.18.0, in favor of the https://github.com/python-jsonschema/referencing library, which provides more compliant referencing behavior as well as more flexible APIs for customization. A future release will remove RefResolver. Please file a feature request (on referencing) if you are missing an API for the kind of customization you need.
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/datacite/jsonutils.py,line=15::jsonschema.RefResolver is deprecated as of v4.18.0, in favor of the https://github.com/python-jsonschema/referencing library, which provides more compliant referencing behavior as well as more flexible APIs for customization. A future release will remove RefResolver. Please file a feature request (on referencing) if you are missing an API for the kind of customization you need.
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/pyld/jsonld.py,line=4413::invalid escape sequence \?
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/pyld/jsonld.py,line=577::"is" with a literal. Did you mean "=="?
+
+tests/test_custom_endpoints.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+                                        [  1%]
+tests/test_custom_fields.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.                                           [  3%]
+tests/test_error_handlers.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+                                           [  3%]
+tests/test_ext.py ..                                                     [  5%]
+tests/test_facets.py ....::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+                                         [ 13%]
+tests/test_index_prefixing.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=509::nested transaction already deassociated from connection
+                                         [ 15%]
+tests/test_links.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+                                                   [ 16%]
+tests/test_marshmallow_contrib.py ...                                    [ 19%]
+tests/test_marshmallow_loader.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=460::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+..::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+                                  [ 23%]
+tests/test_permissions.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+                                              [ 24%]
+tests/test_pid_resolver.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+                                             [ 25%]
+tests/test_serializer_base.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.                                         [ 26%]
+tests/test_serializer_citeproc.py ....::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+                                   [ 29%]
+tests/test_serializer_csv.py ...                                         [ 32%]
+tests/test_serializer_datacite.py ....                                   [ 35%]
+tests/test_serializer_dc.py ..                                           [ 36%]
+tests/test_serializer_json.py ...::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+                                        [ 38%]
+tests/test_serializer_jsonld.py ..                                       [ 40%]
+tests/test_serializer_marshmallow.py ...                                 [ 42%]
+tests/test_serializer_response.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+                                     [ 44%]
+tests/test_sorter.py ......::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+                                             [ 49%]
+tests/test_utils.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+                                               [ 54%]
+tests/test_views_item_delete.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=509::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=509::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=509::nested transaction already deassociated from connection
+                                     [ 57%]
+tests/test_views_item_get.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+                                        [ 60%]
+tests/test_views_item_patch.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=407::The patch() method is deprecated and will be removed.
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=407::The patch() method is deprecated and will be removed.
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=460::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=407::The patch() method is deprecated and will be removed.
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=407::The patch() method is deprecated and will be removed.
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=460::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=509::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=509::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=407::The patch() method is deprecated and will be removed.
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=460::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=407::The patch() method is deprecated and will be removed.
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=407::The patch() method is deprecated and will be removed.
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=460::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=407::The patch() method is deprecated and will be removed.
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=407::The patch() method is deprecated and will be removed.
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=407::The patch() method is deprecated and will be removed.
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=407::The patch() method is deprecated and will be removed.
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=407::The patch() method is deprecated and will be removed.
+                                  [ 66%]
+tests/test_views_item_put.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=460::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=460::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=460::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=460::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=509::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=509::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=460::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=460::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+                                  [ 74%]
+tests/test_views_list_post.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+                                   [ 80%]
+tests/test_views_options.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+                                           [ 81%]
+tests/test_views_search.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+                          [ 96%]
+tests/test_views_serializers.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+.::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+                                       [ 98%]
+tests/test_views_suggesters.py .::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py,line=76::Set configuration variable SECRET_KEY with random string
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py,line=358::nested transaction already deassociated from connection
+::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py,line=34::nested transaction already deassociated from connection
+                                         [ 99%]
+invenio_records_rest/__init__.py ::error file=workdir/tests/invenio-records-rest/original/invenio_records_rest/__init__.py,line=11::[doctest] invenio_records_rest
+F::warning file=/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+                                       [100%]
+
+=================================== FAILURES ===================================
+________________________ [doctest] invenio_records_rest ________________________
+104 application context so let’s push one:
+105 
+106 >>> ctx = app.app_context()
+107 >>> ctx.push()
+108 
+109 Also, for the examples to work we need to create the database and tables (note
+110 that in this example we use an in-memory SQLite database):
+111 
+112 >>> from invenio_db import db
+113 >>> db.create_all()
+UNEXPECTED EXCEPTION: TypeError("'options' is an invalid keyword argument for this function")
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/doctest.py", line 1334, in __run
+    exec(compile(example.source, filename, "single",
+  File "<doctest invenio_records_rest[22]>", line 1, in <module>
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/flask_sqlalchemy/extension.py", line 900, in create_all
+    self._call_for_binds(bind_key, "create_all")
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/flask_sqlalchemy/extension.py", line 881, in _call_for_binds
+    getattr(metadata, op_name)(bind=engine)
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/sql/schema.py", line 5928, in create_all
+    bind._run_ddl_visitor(
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 3267, in _run_ddl_visitor
+    with self.begin() as conn:
+  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/contextlib.py", line 119, in __enter__
+    return next(self.gen)
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 3257, in begin
+    with self.connect() as conn:
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 3293, in connect
+    return self._connection_cls(self)
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 143, in __init__
+    self._dbapi_connection = engine.raw_connection()
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 3317, in raw_connection
+    return self.pool.connect()
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 448, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 1272, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 712, in checkout
+    rec = pool._do_get()
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/pool/impl.py", line 514, in _do_get
+    rec = self.connection
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 1123, in __get__
+    obj.__dict__[self.__name__] = result = self.fget(obj)
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/pool/impl.py", line 471, in connection
+    return _ConnectionRecord(self)
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 674, in __init__
+    self.__connect()
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 901, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 121, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/pool/base.py", line 896, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/engine/create.py", line 667, in connect
+    return dialect.connect(*cargs_tup, **cparams)
+  File "/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 630, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)  # type: ignore[no-any-return]  # NOQA: E501
+TypeError: 'options' is an invalid keyword argument for this function
+/home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/invenio_records_rest/__init__.py:113: UnexpectedException
+=============================== warnings summary ===============================
+.venv/lib/python3.9/site-packages/webargs/compat.py:8
+  /home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/webargs/compat.py:8: DeprecationWarning: The '__version__' attribute is deprecated and will be removed in in a future version. Use feature detection or 'importlib.metadata.version("marshmallow")' instead.
+    MARSHMALLOW_VERSION_INFO = tuple(LooseVersion(ma.__version__).version)  # type: tuple
+
+.venv/lib/python3.9/site-packages/webargs/compat.py:8
+  /home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/webargs/compat.py:8: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+    MARSHMALLOW_VERSION_INFO = tuple(LooseVersion(ma.__version__).version)  # type: tuple
+
+.venv/lib/python3.9/site-packages/webargs/__init__.py:13
+  /home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/webargs/__init__.py:13: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+    __version_info__ = tuple(LooseVersion(__version__).version)
+
+.venv/lib/python3.9/site-packages/datacite/rest_client.py:23
+  /home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/datacite/rest_client.py:23: DeprecationWarning: Implicit imports (e.g., 'import idutils; idutils.function;') might be removed in the next major version. Please use explicit imports (e.g., 'from idutils import function;') instead.
+    from idutils import normalize_doi
+
+.venv/lib/python3.9/site-packages/datacite/jsonutils.py:15
+.venv/lib/python3.9/site-packages/datacite/jsonutils.py:15
+  /home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/datacite/jsonutils.py:15: DeprecationWarning: jsonschema.RefResolver is deprecated as of v4.18.0, in favor of the https://github.com/python-jsonschema/referencing library, which provides more compliant referencing behavior as well as more flexible APIs for customization. A future release will remove RefResolver. Please file a feature request (on referencing) if you are missing an API for the kind of customization you need.
+    from jsonschema import RefResolver, validate
+
+.venv/lib/python3.9/site-packages/pyld/jsonld.py:4413
+  /home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/pyld/jsonld.py:4413: DeprecationWarning: invalid escape sequence \?
+    and re.match('.*[:/\?#\[\]@]$', id_)
+
+.venv/lib/python3.9/site-packages/pyld/jsonld.py:577
+  /home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/pyld/jsonld.py:577: SyntaxWarning: "is" with a literal. Did you mean "=="?
+    if len(output) is 1 and output[0] == '':
+
+tests/test_custom_endpoints.py: 2 warnings
+tests/test_custom_fields.py: 1 warning
+tests/test_error_handlers.py: 1 warning
+tests/test_facets.py: 8 warnings
+tests/test_index_prefixing.py: 2 warnings
+tests/test_links.py: 2 warnings
+tests/test_marshmallow_loader.py: 5 warnings
+tests/test_permissions.py: 1 warning
+tests/test_pid_resolver.py: 1 warning
+tests/test_serializer_base.py: 1 warning
+tests/test_serializer_citeproc.py: 1 warning
+tests/test_serializer_json.py: 1 warning
+tests/test_serializer_response.py: 2 warnings
+tests/test_sorter.py: 2 warnings
+tests/test_utils.py: 6 warnings
+tests/test_views_item_delete.py: 4 warnings
+tests/test_views_item_get.py: 4 warnings
+tests/test_views_item_patch.py: 8 warnings
+tests/test_views_item_put.py: 10 warnings
+tests/test_views_list_post.py: 8 warnings
+tests/test_views_options.py: 2 warnings
+tests/test_views_search.py: 20 warnings
+tests/test_views_serializers.py: 2 warnings
+tests/test_views_suggesters.py: 1 warning
+invenio_records_rest/__init__.py: 1 warning
+  /home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_rest/ext.py:29: FutureWarning: CSRF validation will be enabled by default in the version 1.3.x
+    self.init_app(app)
+
+tests/test_custom_endpoints.py: 2 warnings
+tests/test_custom_fields.py: 1 warning
+tests/test_error_handlers.py: 1 warning
+tests/test_facets.py: 8 warnings
+tests/test_index_prefixing.py: 2 warnings
+tests/test_links.py: 2 warnings
+tests/test_marshmallow_loader.py: 5 warnings
+tests/test_permissions.py: 1 warning
+tests/test_pid_resolver.py: 1 warning
+tests/test_serializer_base.py: 1 warning
+tests/test_serializer_citeproc.py: 1 warning
+tests/test_serializer_json.py: 1 warning
+tests/test_serializer_response.py: 2 warnings
+tests/test_sorter.py: 2 warnings
+tests/test_utils.py: 6 warnings
+tests/test_views_item_delete.py: 4 warnings
+tests/test_views_item_get.py: 4 warnings
+tests/test_views_item_patch.py: 8 warnings
+tests/test_views_item_put.py: 10 warnings
+tests/test_views_list_post.py: 8 warnings
+tests/test_views_options.py: 2 warnings
+tests/test_views_search.py: 20 warnings
+tests/test_views_serializers.py: 2 warnings
+tests/test_views_suggesters.py: 1 warning
+  /home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_config/default.py:76: UserWarning: Set configuration variable SECRET_KEY with random string
+    warnings.warn(
+
+tests/test_custom_endpoints.py: 2 warnings
+tests/test_index_prefixing.py: 1 warning
+tests/test_links.py: 2 warnings
+tests/test_marshmallow_loader.py: 2 warnings
+tests/test_permissions.py: 1 warning
+tests/test_pid_resolver.py: 1 warning
+tests/test_serializer_base.py: 1 warning
+tests/test_views_item_delete.py: 4 warnings
+tests/test_views_item_get.py: 4 warnings
+tests/test_views_item_patch.py: 8 warnings
+tests/test_views_item_put.py: 10 warnings
+tests/test_views_list_post.py: 4 warnings
+tests/test_views_search.py: 20 warnings
+tests/test_views_serializers.py: 2 warnings
+tests/test_views_suggesters.py: 1 warning
+  /home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py:358: SAWarning: nested transaction already deassociated from connection
+    db.session.add(record.model)
+
+tests/test_custom_endpoints.py: 2 warnings
+tests/test_links.py: 2 warnings
+tests/test_permissions.py: 1 warning
+tests/test_pid_resolver.py: 1 warning
+tests/test_serializer_base.py: 1 warning
+tests/test_views_item_delete.py: 4 warnings
+tests/test_views_item_get.py: 4 warnings
+tests/test_views_item_patch.py: 6 warnings
+tests/test_views_item_put.py: 8 warnings
+tests/test_views_search.py: 20 warnings
+tests/test_views_serializers.py: 2 warnings
+tests/test_views_suggesters.py: 1 warning
+  /home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/tests/helpers.py:34: SAWarning: nested transaction already deassociated from connection
+    record = Record.create(data, id_=rec_uuid)
+
+tests/test_index_prefixing.py::test_api_views
+tests/test_views_item_delete.py::test_valid_delete
+tests/test_views_item_delete.py::test_delete_deleted
+tests/test_views_item_delete.py::test_delete_with_sqldatabase_error
+tests/test_views_item_patch.py::test_patch_deleted[application/json-patch+json]
+tests/test_views_item_patch.py::test_patch_deleted[application/json-patch+json;charset=utf-8]
+tests/test_views_item_put.py::test_put_on_deleted[application/json]
+tests/test_views_item_put.py::test_put_on_deleted[application/json;charset=utf-8]
+  /home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py:509: SAWarning: nested transaction already deassociated from connection
+    db.session.merge(self.model)
+
+tests/test_marshmallow_loader.py: 1 warning
+tests/test_views_item_patch.py: 4 warnings
+tests/test_views_item_put.py: 6 warnings
+  /home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py:460: SAWarning: nested transaction already deassociated from connection
+    db.session.merge(self.model)
+
+tests/test_views_item_patch.py: 12 warnings
+  /home/runner/work/cds-rdm/cds-rdm/workdir/tests/invenio-records-rest/original/.venv/lib/python3.9/site-packages/invenio_records/api.py:407: DeprecationWarning: The patch() method is deprecated and will be removed.
+    warnings.warn(
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.9.25-final-0 ________________
+
+Name                                                          Stmts   Miss  Cover   Missing
+-------------------------------------------------------------------------------------------
+invenio_records_rest/__init__.py                                  4      0   100%
+invenio_records_rest/_compat.py                                  11      5    55%   22-28
+invenio_records_rest/config.py                                   20      0   100%
+invenio_records_rest/errors.py                                  105     10    90%   51, 104-106, 187-189, 255-259
+invenio_records_rest/ext.py                                      52      1    98%   112
+invenio_records_rest/facets.py                                  103     22    79%   31-55, 121, 167-170, 189-192, 240
+invenio_records_rest/links.py                                    13      0   100%
+invenio_records_rest/loaders/__init__.py                          6      0   100%
+invenio_records_rest/loaders/marshmallow.py                      45      5    89%   57, 87-89, 106
+invenio_records_rest/proxies.py                                   4      0   100%
+invenio_records_rest/query.py                                    25      3    88%   39-44
+invenio_records_rest/schemas/__init__.py                          2      0   100%
+invenio_records_rest/schemas/fields/__init__.py                   8      0   100%
+invenio_records_rest/schemas/fields/datetime.py                  11      4    64%   21-24
+invenio_records_rest/schemas/fields/generated.py                 23      7    70%   31-54
+invenio_records_rest/schemas/fields/marshmallow_contrib.py       38      7    82%   19-20, 26, 76, 135-137
+invenio_records_rest/schemas/fields/persistentidentifier.py       9      0   100%
+invenio_records_rest/schemas/fields/sanitizedhtml.py             11      0   100%
+invenio_records_rest/schemas/fields/sanitizedunicode.py          14      0   100%
+invenio_records_rest/schemas/fields/trimmedstring.py              5      0   100%
+invenio_records_rest/schemas/json.py                             61     27    56%   27-35, 68-75, 80-97, 114, 122-123
+invenio_records_rest/serializers/__init__.py                      7      0   100%
+invenio_records_rest/serializers/base.py                         36      7    81%   37, 52, 62, 84, 97, 116, 126
+invenio_records_rest/serializers/citeproc.py                     58      5    91%   33-36, 110-111
+invenio_records_rest/serializers/csv.py                          66      3    95%   54, 135, 139
+invenio_records_rest/serializers/datacite.py                     39      0   100%
+invenio_records_rest/serializers/dc.py                           15      0   100%
+invenio_records_rest/serializers/json.py                         15      0   100%
+invenio_records_rest/serializers/jsonld.py                       32      4    88%   45-48
+invenio_records_rest/serializers/marshmallow.py                  20      0   100%
+invenio_records_rest/serializers/response.py                     27      0   100%
+invenio_records_rest/sorter.py                                   49      0   100%
+invenio_records_rest/utils.py                                   100      1    99%   168
+invenio_records_rest/views.py                                   339     13    96%   114-116, 127, 291, 296, 299, 440, 718, 723, 881, 924, 961
+-------------------------------------------------------------------------------------------
+TOTAL                                                          1373    124    91%
+=========================== short test summary info ============================
+FAILED invenio_records_rest/__init__.py::invenio_records_rest
+================= 1 failed, 130 passed, 345 warnings in 33.58s =================
+ Container docker_services_cli-opensearch-1  Stopping
+ Container docker_services_cli-redis-1  Stopping
+ Container docker_services_cli-rabbitmq-1  Stopping
+ Container docker_services_cli-postgresql-1  Stopping
+ Container docker_services_cli-postgresql-1  Stopped
+ Container docker_services_cli-postgresql-1  Removing
+ Container docker_services_cli-postgresql-1  Removed
+ Container docker_services_cli-redis-1  Stopped
+ Container docker_services_cli-redis-1  Removing
+ Container docker_services_cli-redis-1  Removed
+ Container docker_services_cli-opensearch-1  Stopped
+ Container docker_services_cli-opensearch-1  Removing
+ Container docker_services_cli-opensearch-1  Removed
+ Container docker_services_cli-rabbitmq-1  Stopped
+ Container docker_services_cli-rabbitmq-1  Removing
+ Container docker_services_cli-rabbitmq-1  Removed
+ Network docker_services_cli_default  Removing
+ Network docker_services_cli_default  Removed

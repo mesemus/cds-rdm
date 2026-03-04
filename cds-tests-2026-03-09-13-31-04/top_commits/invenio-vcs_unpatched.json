@@ -1,0 +1,38 @@
+[
+  {
+    "hash": "a5080bb",
+    "message": "TEMP"
+  },
+  {
+    "hash": "09248a6",
+    "message": "feat: service layer"
+  },
+  {
+    "hash": "da8ab7b",
+    "message": "feat: data layer"
+  },
+  {
+    "hash": "b1c6f97",
+    "message": "feat: views layer"
+  },
+  {
+    "hash": "7c84b0a",
+    "message": "feat: provider layer"
+  },
+  {
+    "hash": "647e835",
+    "message": "docs: upgrade guide for GitHub -> VCS"
+  },
+  {
+    "hash": "0c30702",
+    "message": "tests: compat for VCS"
+  },
+  {
+    "hash": "fe0dd58",
+    "message": "init: set up base invenio-vcs repository, without important code"
+  },
+  {
+    "hash": "f8d2c06",
+    "message": "Initial commit"
+  }
+]

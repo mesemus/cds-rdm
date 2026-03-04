@@ -1,0 +1,43 @@
+{
+  "dependencies": [],
+  "package": {
+    "extras": [
+      "tests",
+      "opensearch2",
+      "postgresql"
+    ],
+    "freeze": [
+      "setuptools<82.0.0"
+    ],
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": "5.2.1",
+      "base": null,
+      "branch": "v5.2.1",
+      "commit": "d278354ea63e74c390653e67980d3f48e2579a81",
+      "commits_from_version": [],
+      "org": "inveniosoftware",
+      "package": "invenio-banners",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-banners"
+    },
+    "test": [
+      "./run-tests.sh"
+    ],
+    "unpatched_reference": {
+      "actual_version": "5.2.1",
+      "base": null,
+      "branch": null,
+      "commit": "d278354ea63e74c390653e67980d3f48e2579a81",
+      "commits_from_version": [],
+      "org": "inveniosoftware",
+      "package": "invenio-banners",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-banners"
+    }
+  },
+  "status": "skipped"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": [],
+  "package": {
+    "extras": [
+      "tests",
+      "opensearch2",
+      "s3",
+      "devs",
+      "s3fs",
+      "oaipmh",
+      "rdf",
+      "sparql",
+      "postgresql",
+      "admin"
+    ],
+    "freeze": [
+      "setuptools<82.0.0"
+    ],
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": "3.3.3",
+      "base": null,
+      "branch": "v3.3.3",
+      "commit": "388f85b6f35e9823ea6a98c161c346353cce89e7",
+      "commits_from_version": [],
+      "org": "inveniosoftware",
+      "package": "invenio-oauth2server",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-oauth2server"
+    },
+    "test": [
+      "./run-tests.sh"
+    ],
+    "unpatched_reference": {
+      "actual_version": "3.3.3",
+      "base": null,
+      "branch": null,
+      "commit": "388f85b6f35e9823ea6a98c161c346353cce89e7",
+      "commits_from_version": [],
+      "org": "inveniosoftware",
+      "package": "invenio-oauth2server",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-oauth2server"
+    }
+  },
+  "status": "skipped"
+}

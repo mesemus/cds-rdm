@@ -1,0 +1,70 @@
+{
+  "dependencies": [],
+  "package": {
+    "extras": [
+      "tests",
+      "opensearch2",
+      "s3",
+      "devs",
+      "s3fs",
+      "oaipmh",
+      "rdf",
+      "sparql",
+      "postgresql",
+      "admin"
+    ],
+    "freeze": [
+      "setuptools<82.0.0"
+    ],
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": null,
+      "base": null,
+      "branch": "master",
+      "commit": "a5080bb7ca6db09d2508bc6698e1318508983487",
+      "commits_from_version": [
+        "f8d2c06d45460268e3919074ba35bc9f7e453ddd",
+        "fe0dd583500e1c34766b283998f85485e5cef754",
+        "0c30702e3e43db0e232e5d701c426ed1fbdf772b",
+        "647e83594b11f00317582dba2843befd4122a531",
+        "7c84b0a80ebdcb43606dd08b0857e110921e90ea",
+        "b1c6f9745a4e7cce60200e86a76f6e9bfb69df78",
+        "da8ab7b6c583d566bec69dec6de0a9e4eab9093d",
+        "09248a6c0eb8a0ac6f0d202850435a991e89abd0",
+        "a5080bb7ca6db09d2508bc6698e1318508983487"
+      ],
+      "org": "palkerecsenyi",
+      "package": "invenio-vcs-new",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-vcs-new"
+    },
+    "test": [
+      "./run-tests.sh"
+    ],
+    "unpatched_reference": {
+      "actual_version": null,
+      "base": null,
+      "branch": null,
+      "commit": "a5080bb7ca6db09d2508bc6698e1318508983487",
+      "commits_from_version": [
+        "f8d2c06d45460268e3919074ba35bc9f7e453ddd",
+        "fe0dd583500e1c34766b283998f85485e5cef754",
+        "0c30702e3e43db0e232e5d701c426ed1fbdf772b",
+        "647e83594b11f00317582dba2843befd4122a531",
+        "7c84b0a80ebdcb43606dd08b0857e110921e90ea",
+        "b1c6f9745a4e7cce60200e86a76f6e9bfb69df78",
+        "da8ab7b6c583d566bec69dec6de0a9e4eab9093d",
+        "09248a6c0eb8a0ac6f0d202850435a991e89abd0",
+        "a5080bb7ca6db09d2508bc6698e1318508983487"
+      ],
+      "org": "palkerecsenyi",
+      "package": "invenio-vcs",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-vcs-new"
+    }
+  },
+  "status": "skipped"
+}

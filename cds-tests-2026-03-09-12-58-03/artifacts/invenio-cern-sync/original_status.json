@@ -1,0 +1,44 @@
+{
+  "dependencies": [],
+  "package": {
+    "extras": [
+      "tests",
+      "opensearch2",
+      "postgresql",
+      "admin"
+    ],
+    "freeze": [
+      "setuptools<82.0.0"
+    ],
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": "0.5.0",
+      "base": null,
+      "branch": "v0.5.0",
+      "commit": "7a478832f00432a6e305a553dfae2b30c0595702",
+      "commits_from_version": [],
+      "org": "cerndocumentserver",
+      "package": "invenio-cern-sync",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-cern-sync"
+    },
+    "test": [
+      "./run-tests.sh"
+    ],
+    "unpatched_reference": {
+      "actual_version": "0.5.0",
+      "base": null,
+      "branch": null,
+      "commit": "7a478832f00432a6e305a553dfae2b30c0595702",
+      "commits_from_version": [],
+      "org": "cerndocumentserver",
+      "package": "invenio-cern-sync",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-cern-sync"
+    }
+  },
+  "status": "success"
+}

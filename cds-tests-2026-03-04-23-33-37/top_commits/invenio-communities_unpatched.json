@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "ade033b4",
+    "message": "release: v22.0.0"
+  },
+  {
+    "hash": "f1099733",
+    "message": "chore(setup): bump major version of invenio-requests"
+  },
+  {
+    "hash": "bf38ec56",
+    "message": "release: v21.2.0"
+  },
+  {
+    "hash": "07131d85",
+    "message": "fix(tests): add lock/unlock links and remove reviewers field when disabled"
+  },
+  {
+    "hash": "61d27ff0",
+    "message": "fix: add timeline_focused to tests"
+  },
+  {
+    "hash": "12651d85",
+    "message": "feat: add link to submission request from communities modal"
+  },
+  {
+    "hash": "ded52099",
+    "message": "UI: change community display for request link"
+  },
+  {
+    "hash": "8ff51b31",
+    "message": "i18n: wrap missing admin panel strings"
+  },
+  {
+    "hash": "3173d31e",
+    "message": "release: v21.1.1"
+  },
+  {
+    "hash": "d1018d0e",
+    "message": "chore: isort"
+  },
+  {
+    "hash": "bfa5de95",
+    "message": "feat(fixtures): allow creating community fixture with a specific uuid"
+  },
+  {
+    "hash": "77b36d6a",
+    "message": "\ud83d\udce6 release: v21.1.0"
+  },
+  {
+    "hash": "0ea73dcc",
+    "message": "feat(config): add last activity sort options"
+  },
+  {
+    "hash": "9c3a5a1d",
+    "message": "installation: bump invenio-requests to v10.2.0"
+  },
+  {
+    "hash": "5f6ee318",
+    "message": "test(subcommunities): add `last_activity_at` requests field"
+  },
+  {
+    "hash": "a0535ce9",
+    "message": "\ud83d\udce6 release: v21.0.0"
+  },
+  {
+    "hash": "8583de57",
+    "message": "installation: bump invenio-requests"
+  },
+  {
+    "hash": "83f2a335",
+    "message": "release: v20.2.0"
+  },
+  {
+    "hash": "4f045e3e",
+    "message": "release: v20.1.0"
+  },
+  {
+    "hash": "bfc39d16",
+    "message": "setup: bump invenio-requests"
+  },
+  {
+    "hash": "e44f01b2",
+    "message": "fix: correct community topic typo"
+  },
+  {
+    "hash": "f4cd553a",
+    "message": "fix(views): handle permission denied error in the UI view functions"
+  },
+  {
+    "hash": "a1457e20",
+    "message": "i18n: pulled translations"
+  },
+  {
+    "hash": "9f89803b",
+    "message": "release: v20.0.0"
+  },
+  {
+    "hash": "3bd469cb",
+    "message": "release: v19.2.0"
+  },
+  {
+    "hash": "ae2f4931",
+    "message": "i18n: pulled translations"
+  },
+  {
+    "hash": "2c7cfa9c",
+    "message": "js: add slug to subcommunity initial values"
+  },
+  {
+    "hash": "0138aaaa",
+    "message": "i18n:push translations"
+  },
+  {
+    "hash": "5f527cd3",
+    "message": "release: v19.1.0"
+  },
+  {
+    "hash": "0385cb0f",
+    "message": "i18n: run js compile catalog"
+  },
+  {
+    "hash": "895c3b90",
+    "message": "i18n: run js extract msgs"
+  },
+  {
+    "hash": "af6931bf",
+    "message": "fix: update copyright information across multiple files"
+  },
+  {
+    "hash": "418e0b8d",
+    "message": "i18n: Replace Trans component with i18next.t for selected users message"
+  },
+  {
+    "hash": "0890e425",
+    "message": "fix GroupTabPane"
+  },
+  {
+    "hash": "a732e8f4",
+    "message": "i18n: Simplify label rendering in Sort component"
+  },
+  {
+    "hash": "ce693362",
+    "message": "i18n: Remove unnecessary Trans components from member selection"
+  },
+  {
+    "hash": "13cdba7c",
+    "message": "i18n: MembersResult replace Trans component"
+  },
+  {
+    "hash": "649def63",
+    "message": "i18n: InvitationsResults replace Trans components"
+  },
+  {
+    "hash": "189ab683",
+    "message": "i18n: DeleteCommunityModal replace Trans component"
+  },
+  {
+    "hash": "612de585",
+    "message": "i18n: refactor compileCatalog script"
+  },
+  {
+    "hash": "b57c3849",
+    "message": "i18n: force pull languages"
+  },
+  {
+    "hash": "467ec6c8",
+    "message": "i18n: extract py msgs"
+  },
+  {
+    "hash": "761b37f0",
+    "message": "fix: internationalized additionLabel for community organizations picker field"
+  },
+  {
+    "hash": "0a8afe1e",
+    "message": "translations: using localized strings for displaying active filters"
+  },
+  {
+    "hash": "c3f4ddb4",
+    "message": "fix: cancelled filter has incorrect string value 'cancel'"
+  },
+  {
+    "hash": "4be8e61a",
+    "message": "admin: remove flag to always show the admin panel"
+  },
+  {
+    "hash": "c08a8cdd",
+    "message": "subcomunities: fix parent community ID referencing in request payload"
+  },
+  {
+    "hash": "38a821bb",
+    "message": "chore: remove unused imports"
+  },
+  {
+    "hash": "a76348c1",
+    "message": "translations: wrapped user facing strings into i18next"
+  },
+  {
+    "hash": "52f5463d",
+    "message": "using translated string for displaying role"
+  }
+]

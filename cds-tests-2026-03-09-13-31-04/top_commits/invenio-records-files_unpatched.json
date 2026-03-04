@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "befa10c",
+    "message": "release: v1.2.1"
+  },
+  {
+    "hash": "48fb359",
+    "message": "global: bump invenio-files-rest version"
+  },
+  {
+    "hash": "804327a",
+    "message": "release: v1.2.0"
+  },
+  {
+    "hash": "148402a",
+    "message": "global: bump invenio-records-rest, invenio-files-rest"
+  },
+  {
+    "hash": "a0ae994",
+    "message": "docs: review (#92)"
+  },
+  {
+    "hash": "bba168d",
+    "message": "links: add link factory for record and files (#87)"
+  },
+  {
+    "hash": "70fd750",
+    "message": "views: refactor views (#89)"
+  },
+  {
+    "hash": "633ce34",
+    "message": "docs: fix curl example"
+  },
+  {
+    "hash": "ad9bd1d",
+    "message": "release: v1.1.1"
+  },
+  {
+    "hash": "d750ab4",
+    "message": "views: fix Flask-Talismen ordering issue"
+  },
+  {
+    "hash": "4266142",
+    "message": "docs: fix typos"
+  },
+  {
+    "hash": "27a5f5c",
+    "message": "installation: add missing entry points"
+  },
+  {
+    "hash": "b9b3e40",
+    "message": "release: v1.1.0"
+  },
+  {
+    "hash": "30d7b0a",
+    "message": "api: record class with associated bucket creation"
+  },
+  {
+    "hash": "c8173fb",
+    "message": "release: v1.0.0"
+  },
+  {
+    "hash": "e38cbd9",
+    "message": "global: bump invenio-files-rest"
+  },
+  {
+    "hash": "1d2f879",
+    "message": "views: implementation of records_files views"
+  },
+  {
+    "hash": "989753b",
+    "message": "api: add 'file_id' into 'dumps()' method"
+  },
+  {
+    "hash": "6bf5302",
+    "message": "global: add missing field file_id to json schema"
+  },
+  {
+    "hash": "d9e9a1a",
+    "message": "global: isort v4.3.4 and pytest v3.7.0"
+  },
+  {
+    "hash": "9805bbe",
+    "message": "docs: review, intersphinx_mapping fix & typos"
+  },
+  {
+    "hash": "36d22ac",
+    "message": "tests: remove _attachment from schema"
+  },
+  {
+    "hash": "27a3e54",
+    "message": "setup: fix pytest version"
+  },
+  {
+    "hash": "71ee795",
+    "message": "setup: upgrade es from version 2 to 6"
+  },
+  {
+    "hash": "c410eba",
+    "message": "docs: add Integration with invenio-records-ui"
+  },
+  {
+    "hash": "672f8b6",
+    "message": "docs: adding list of features to README"
+  },
+  {
+    "hash": "b4e1839",
+    "message": "docs: adding missing sqlite dependency"
+  },
+  {
+    "hash": "febd869",
+    "message": "global: remove depracted full-text indexing"
+  },
+  {
+    "hash": "3814e2b",
+    "message": "test: remove example application"
+  },
+  {
+    "hash": "a9a4e5e",
+    "message": "Revert \"release: v1.0.0\""
+  },
+  {
+    "hash": "0f63889",
+    "message": "global: Added shield badge"
+  },
+  {
+    "hash": "6198fac",
+    "message": "release: v1.0.0"
+  },
+  {
+    "hash": "83af083",
+    "message": "global: Updated AUTHORS.rst"
+  },
+  {
+    "hash": "37240da",
+    "message": "global: remove unused files"
+  },
+  {
+    "hash": "666f0cc",
+    "message": "global: add allow_failures to travis config"
+  },
+  {
+    "hash": "db01523",
+    "message": "installation: removed pytest-cache dependency"
+  },
+  {
+    "hash": "1121a62",
+    "message": "global: license change and files cleanup"
+  },
+  {
+    "hash": "db2799f",
+    "message": "release: v1.0.0a11"
+  },
+  {
+    "hash": "317d00b",
+    "message": "installation: bump invenio-files-rest"
+  },
+  {
+    "hash": "7dba482",
+    "message": "utils: add \"download\" parameter to UI view"
+  },
+  {
+    "hash": "9566629",
+    "message": "tests:  dependencies and isort fixes"
+  },
+  {
+    "hash": "3f34f83",
+    "message": "release: v1.0.0a10"
+  },
+  {
+    "hash": "6e58fd2",
+    "message": "travis: remove pypy builds"
+  },
+  {
+    "hash": "9715a29",
+    "message": "api: support unicode filenames"
+  },
+  {
+    "hash": "8988189",
+    "message": "global: moved mapping to tests"
+  },
+  {
+    "hash": "e3bb16f",
+    "message": "version: post-release bump"
+  },
+  {
+    "hash": "9dfd983",
+    "message": "release: v1.0.0a9"
+  },
+  {
+    "hash": "ece5411",
+    "message": "docs: Sphinx>=1.5.1"
+  },
+  {
+    "hash": "7ed3f30",
+    "message": "alembic: addition of dependencies"
+  },
+  {
+    "hash": "9f612d0",
+    "message": "version: post-release bump"
+  }
+]

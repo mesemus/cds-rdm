@@ -1,0 +1,60 @@
+{
+  "dependencies": [],
+  "package": {
+    "extras": [
+      "tests",
+      "opensearch2",
+      "s3",
+      "devs",
+      "s3fs",
+      "oaipmh",
+      "rdf",
+      "sparql",
+      "postgresql",
+      "admin"
+    ],
+    "freeze": [
+      "setuptools<82.0.0"
+    ],
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": "14.0.0b5.dev6",
+      "base": null,
+      "branch": "vcs",
+      "commit": "a1eac8bed2546238d5eed2196c23909dc03a704a",
+      "commits_from_version": [
+        "1be91373ce5b403243474ddec0c0e624b1b9c48e",
+        "230473e9f3191f5adc2b1c603e5bd58a4165a40e",
+        "819088a0b76d0aec4006d34ecca9749d0dea43c2",
+        "a1eac8bed2546238d5eed2196c23909dc03a704a"
+      ],
+      "org": "palkerecsenyi",
+      "package": "invenio-app-rdm",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-app-rdm"
+    },
+    "test": [
+      "./run-tests.sh"
+    ],
+    "unpatched_reference": {
+      "actual_version": "14.0.0b5.dev6",
+      "base": null,
+      "branch": null,
+      "commit": "a1eac8bed2546238d5eed2196c23909dc03a704a",
+      "commits_from_version": [
+        "1be91373ce5b403243474ddec0c0e624b1b9c48e",
+        "230473e9f3191f5adc2b1c603e5bd58a4165a40e",
+        "819088a0b76d0aec4006d34ecca9749d0dea43c2",
+        "a1eac8bed2546238d5eed2196c23909dc03a704a"
+      ],
+      "org": "palkerecsenyi",
+      "package": "invenio-app-rdm",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-app-rdm"
+    }
+  },
+  "status": "failed"
+}
