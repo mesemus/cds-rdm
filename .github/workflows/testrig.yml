@@ -13,7 +13,7 @@ env:
 
 jobs:
     verify-patches:
-        uses: oarepo/invenio-testrig/.github/workflows/verify-patches.yml@master
+        uses: oarepo/invenio-testrig/.github/workflows/verify-patches.yml@config-test
         with:
             name: CDS tests
             repository: ${{ github.repository }}@${{ github.ref_name }}
