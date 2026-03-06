@@ -25,3 +25,5 @@ jobs:
             report-branch: gh-pages
             report-repository-token: ${{ github.token }}
             ignore-uv-lock: true
+            patch-mode: pinned
+            config-file: cds_testrig_config.yaml
