@@ -16,8 +16,7 @@ jobs:
         uses: oarepo/invenio-testrig/.github/workflows/verify-patches.yml@config-test
         with:
             name: CDS tests
-            repository: ${{ github.repository }}@${{ github.ref_name }}
-            disable-codestyle-checks: true
+            config-file: cds_testrig_config.yaml
             python-version: 3.9
             # optional stuff
             skip-report: false
@@ -25,5 +24,3 @@ jobs:
             report-branch: gh-pages
             report-repository-token: ${{ github.token }}
             ignore-uv-lock: true
-            patch-mode: pinned
-            config-file: cds_testrig_config.yaml

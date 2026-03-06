@@ -82,3 +82,5 @@ seed_repository:
 
 # Timeout for each tested package (in minutes)
 test_timeout: 90
+patch_mode: pinned
+disable_codestyle_checks: true
